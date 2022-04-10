@@ -569,3 +569,46 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-15.52.53:243][547]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content: 'D:/UnrealEngine/UE_4.22/Engine/Content' is outside repository
 [2022.04.10-15.52.53:343][547]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
 [2022.04.10-15.52.53:344][547]EditorErrors: Warning: No assets to check in!
+[2022.04.10-15.53.40:830][704]LogSourceControl: Writed 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/temp-9ef97bbb836cd05fb1d67a5a88cf0066d347b3a1-FabiaWheels.uasset' (5113o)
+[2022.04.10-15.53.40:831][704]LogBlueprint: Warning: Attempted to query an old Blueprint package opened for diffing!
+[2022.04.10-15.53.40:883][704]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.10-15.53.46:298][ 46]LogSlate: Window 'FabiaWheels - Blueprint Diff' being destroyed
+[2022.04.10-15.54.02:297][941]LogSourceControl: Writed 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/temp-9ef97bbb836cd05fb1d67a5a88cf0066d347b3a1-FabiaMesh.uasset' (7136607o)
+[2022.04.10-15.54.02:339][941]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-15.54.02:339][941]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaMesh-0.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaMesh-1.txt" 
+[2022.04.10-15.54.07:791][941]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.54.10:865][124]LogSourceControl: Writed 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/temp-9ef97bbb836cd05fb1d67a5a88cf0066d347b3a1-FabiaSkel.uasset' (2269o)
+[2022.04.10-15.54.10:894][124]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-15.54.10:894][124]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaSkel-2.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaSkel-3.txt" 
+[2022.04.10-15.54.11:981][124]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.54.14:213][124]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-15.54.14:213][124]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaSkel-2.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaSkel-3.txt" 
+[2022.04.10-15.54.15:408][124]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.54.18:037][275]LogSourceControl: Writed 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/temp-9ef97bbb836cd05fb1d67a5a88cf0066d347b3a1-FabiaTexture.uasset' (324603o)
+[2022.04.10-15.54.18:069][275]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-15.54.18:069][275]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaTexture-4.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaTexture-5.txt" 
+[2022.04.10-15.54.19:910][275]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.54.21:188][275]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-15.54.21:188][275]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaTexture-4.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextFabiaTexture-5.txt" 
+[2022.04.10-15.54.22:584][275]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.54.37:578][407]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.40:305][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board)
+[2022.04.10-15.54.44:004][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.46:286][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.46:385][264]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-15.54.46:387][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.46:417][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.10-15.54.46:502][264]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default3358AA474E243FEC186C9880BE8C40DE.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-15.54.46:517][264]LogFileHelpers: Saving map 'Minimal_Default' took 0.124
+[2022.04.10-15.54.47:145][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.48:622][421]SourceControl: fatal: D:/UnrealEngine/UE_4.22/Engine/Content: 'D:/UnrealEngine/UE_4.22/Engine/Content' is outside repository
+[2022.04.10-15.54.48:720][421]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2022.04.10-15.54.48:757][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.57:163][421]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-15.54.57:170][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.57:235][421]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.54.57:709][421]LogSourceControl: commit successful: [main 374e514] Source Control Test
+[2022.04.10-15.54.57:754][421]SourceControl: [main 374e514] Source Control Test
+[2022.04.10-15.54.57:754][421]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.04.10-15.54.57:760][421]SourceControl: Commited [main 374e514] Source Control Test.
+[2022.04.10-15.55.02:215][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
