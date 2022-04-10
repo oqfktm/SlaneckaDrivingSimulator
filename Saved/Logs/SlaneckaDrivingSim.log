@@ -2064,3 +2064,5 @@ Script Stack (0 frames):
 [2022.04.10-15.10.42:112][563]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2022.04.10-15.10.42:258][563]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default4144FD264E605E5785037189BAABC087.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
 [2022.04.10-15.10.42:273][563]LogFileHelpers: Saving map 'Minimal_Default' took 0.194
+[2022.04.10-15.13.39:806][184]SourceControl: Source control is disabled
+[2022.04.10-15.13.41:450][299]LogSlate: Window 'Source Control Login' being destroyed
