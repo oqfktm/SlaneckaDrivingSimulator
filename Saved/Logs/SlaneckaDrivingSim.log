@@ -612,3 +612,189 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-15.54.57:754][421]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2022.04.10-15.54.57:760][421]SourceControl: Commited [main 374e514] Source Control Test.
 [2022.04.10-15.55.02:215][792]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-15.56.12:227][372]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.59.03:044][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.00.58:556][334]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.01.25:234][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.02.32:344][519]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.10-16.02.38:420][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.04.41:252][ 36]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.10-16.06.11:099][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.08.57:990][781]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\road.fbx)
+[2022.04.10-16.08.58:001][781]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\road.fbx
+[2022.04.10-16.08.58:006][781]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.10-16.09.00:671][781]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.10-16.09.00:795][781]LogLinker: Can't find file '/Game/Props/Roads/road'
+[2022.04.10-16.09.00:795][781]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\road\road.png
+[2022.04.10-16.09.00:798][781]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.00:828][781]LogFbx: Display: Triangulating static mesh road
+[2022.04.10-16.09.00:833][781]LogStaticMesh: Building static mesh road...
+[2022.04.10-16.09.00:836][781]LogStaticMesh: Built static mesh [0.00s] /Game/Props/Roads/road.road
+[2022.04.10-16.09.24:687][179]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\road_texture.png)
+[2022.04.10-16.09.24:725][179]LogTexture: Display: Building textures: road_texture (AutoDXT, 2048X2048)
+[2022.04.10-16.09.31:666][744]LogAssetEditorManager: Opening Asset editor for Material /Game/Props/Roads/road_material.road_material
+[2022.04.10-16.09.31:668][744]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.32:155][744]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.32:167][744]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.32:195][744]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.09.32:208][744]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.10-16.09.32:599][763]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-16.09.33:461][801]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.10-16.09.33:461][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.10-16.09.33:461][801]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-16.09.33:461][801]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-16.09.35:660][904]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.35:691][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.09.35:921][919]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-16.09.36:798][959]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.10-16.09.36:798][959]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.10-16.09.36:798][959]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-16.09.36:798][959]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-16.09.47:109][450]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.47:120][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-16.09.47:123][450]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.47:123][450]LogMaterial: Warning: /Engine/Transient.road_material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.10-16.09.47:123][450]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.10-16.09.47:155][450]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-16.09.47:158][450]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.04.10-16.09.51:989][663]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.52:005][663]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-16.09.52:019][663]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.09.52:033][663]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.52:267][678]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.09.52:554][697]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.10-16.09.53:370][744]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-16.09.56:406][923]LogMaterialEditor: Saving and Compiling material road_material
+[2022.04.10-16.09.56:737][923]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.56:768][923]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.09.56:785][923]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.56:803][923]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.09.56:846][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.04.10-16.09.56:855][923]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.10-16.09.57:629][923]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.10-16.09.57:630][923]TextureStreamingBuild: Display: Compiling optional shaders took 0.784 seconds.
+[2022.04.10-16.09.57:653][923]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2022.04.10-16.09.59:580][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/road_material" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/road_material.uasset" SILENT=true
+[2022.04.10-16.09.59:590][923]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_material312A75C24190EDDD6D02AF82833F5332.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/road_material.uasset'
+[2022.04.10-16.10.00:994][  1]LogSlate: Window 'road_material' being destroyed
+[2022.04.10-16.10.01:011][  1]LogSlate: Window 'road_material' being destroyed
+[2022.04.10-16.10.34:077][334]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SViewport [AssetThumbnail.cpp(157)].
+[2022.04.10-16.10.34:107][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.10-16.10.34:107][334]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.021
+[2022.04.10-16.10.34:108][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Roads/road] ([1] browsable assets)...
+[2022.04.10-16.10.34:118][334]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/Roads/road.road]
+[2022.04.10-16.10.34:118][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Roads/road]
+[2022.04.10-16.10.34:118][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/road" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/Roads/road_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.04.10-16.10.34:129][334]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_Auto1011C292142424B3C918099A938DA1DBB.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/Roads/road_Auto1.uasset'
+[2022.04.10-16.10.34:129][334]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/Roads/road_texture] ([1] browsable assets)...
+[2022.04.10-16.10.34:134][334]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/Roads/road_texture.road_texture]
+[2022.04.10-16.10.34:134][334]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/Roads/road_texture]
+[2022.04.10-16.10.34:144][334]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_texture_Auto10E055BB1431CB5FA43F63AAAA3681A78.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/Roads/road_texture_Auto1.uasset'
+[2022.04.10-16.10.34:145][334]LogFileHelpers: Auto-saving content packages took 0.037
+[2022.04.10-16.10.46:223][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/BasicRoad" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad.uasset" SILENT=true
+[2022.04.10-16.10.46:233][440]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoadF473428743ED0D383029A78ECCD098F4.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad.uasset'
+[2022.04.10-16.10.46:609][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.10-16.10.46:634][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.04.10-16.10.46:653][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2022.04.10-16.10.54:589][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/BasicRoad_Material" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Material.uasset" SILENT=true
+[2022.04.10-16.10.54:599][192]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_MaterialAF90CF2C474D0A2C831E68A7CAB2A91C.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Material.uasset'
+[2022.04.10-16.10.55:070][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.04.10-16.10.55:093][192]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.04.10-16.10.55:114][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.10-16.10.55:207][192]SourceControl: rm 'Content/Props/Roads/road_material.uasset'
+[2022.04.10-16.10.55:281][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/BasicRoad" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad.uasset" SILENT=true
+[2022.04.10-16.10.55:289][192]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad5BFE55DB48EFC3344A5622947D29BCE3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad.uasset'
+[2022.04.10-16.11.06:374][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/BasicRoad_Texture" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Texture.uasset" SILENT=true
+[2022.04.10-16.11.06:489][276]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_Texture362A2F204A7A0D8FAB6F61BED98B7594.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Texture.uasset'
+[2022.04.10-16.11.06:836][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.10-16.11.06:860][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.10-16.11.06:881][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.04.10-16.11.06:941][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/Roads/BasicRoad_Material" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Material.uasset" SILENT=true
+[2022.04.10-16.11.06:960][276]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_Material87382083489B6B221E3E2DA220420808.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/Roads/BasicRoad_Material.uasset'
+[2022.04.10-16.12.12:365][578]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2022.04.10-16.12.12:365][578]SourceControl: Error: error: additionally, your index contains uncommitted changes.
+[2022.04.10-16.12.12:365][578]SourceControl: Error: error: please commit or stash them.
+[2022.04.10-16.12.12:367][578]LogContentBrowser: Syncing 1 path(s):
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Texture
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Material
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_texture
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_material
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_lr_texture
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_lr_material
+[2022.04.10-16.12.12:367][578]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_lr
+[2022.04.10-16.12.12:367][578]LogUObjectGlobals: Reloading 9 Package(s):
+	Asset Name: /Game/Props/Roads/BasicRoad_Texture
+	Asset Name: /Game/Props/Roads/BasicRoad_Material
+	Asset Name: /Game/Props/Roads/BasicRoad
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_texture
+	Asset Name: /Game/Props/DirectionalBoard/directional_material
+	Asset Name: /Game/Props/DirectionalBoard/directional_board
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_lr_texture
+	Asset Name: /Game/Props/DirectionalBoard/directional_lr_material
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_lr
+[2022.04.10-16.12.12:392][578]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2022.04.10-16.12.12:399][578]LogMaterial: Display: Missing cached shader map for material BasicRoad_Material, compiling. 
+[2022.04.10-16.12.12:515][578]LogMaterial: Display: Missing cached shader map for material road_material, compiling. 
+[2022.04.10-16.12.12:526][578]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-16.12.12:591][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.04.10-16.12.13:127][619]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-16.12.24:111][667]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-16.12.25:010][667]LogSourceControl: commit successful: [main 5552918] Basic Road add
+[2022.04.10-16.12.25:054][667]SourceControl: [main 5552918] Basic Road add
+[2022.04.10-16.12.25:054][667]SourceControl:  3 files changed, 0 insertions(+), 0 deletions(-)
+[2022.04.10-16.12.25:054][667]SourceControl:  create mode 100644 Content/Props/Roads/BasicRoad.uasset
+[2022.04.10-16.12.25:054][667]SourceControl:  create mode 100644 Content/Props/Roads/BasicRoad_Material.uasset
+[2022.04.10-16.12.25:054][667]SourceControl:  create mode 100644 Content/Props/Roads/BasicRoad_Texture.uasset
+[2022.04.10-16.12.25:060][667]SourceControl: Commited [main 5552918] Basic Road add.
+[2022.04.10-16.12.28:042][839]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2022.04.10-16.12.28:042][839]SourceControl: Error: error: please commit or stash them.
+[2022.04.10-16.12.28:045][839]LogContentBrowser: Syncing 1 path(s):
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_lr_material
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_lr_texture
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_material
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_texture
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/DirectionalBoard/directional_board_lr
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Material
+[2022.04.10-16.12.28:045][839]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Texture
+[2022.04.10-16.12.28:046][839]LogUObjectGlobals: Reloading 9 Package(s):
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_lr_texture
+	Asset Name: /Game/Props/DirectionalBoard/directional_lr_material
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_texture
+	Asset Name: /Game/Props/DirectionalBoard/directional_material
+	Asset Name: /Game/Props/DirectionalBoard/directional_board
+	Asset Name: /Game/Props/DirectionalBoard/directional_board_lr
+	Asset Name: /Game/Props/Roads/BasicRoad_Texture
+	Asset Name: /Game/Props/Roads/BasicRoad_Material
+	Asset Name: /Game/Props/Roads/BasicRoad
+[2022.04.10-16.12.28:082][839]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.04.10-16.12.28:327][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.04.10-16.12.58:913][773]SourceControl: Error: error: cannot pull with rebase: You have unstaged changes.
+[2022.04.10-16.12.58:913][773]SourceControl: Error: error: please commit or stash them.
+[2022.04.10-16.12.58:915][773]LogContentBrowser: Syncing 1 path(s):
+[2022.04.10-16.12.58:915][773]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad
+[2022.04.10-16.12.58:915][773]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Material
+[2022.04.10-16.12.58:915][773]LogContentBrowser: 	 - /Game/Props/Roads/BasicRoad_Texture
+[2022.04.10-16.12.58:916][773]LogUObjectGlobals: Reloading 3 Package(s):
+	Asset Name: /Game/Props/Roads/BasicRoad_Texture
+	Asset Name: /Game/Props/Roads/BasicRoad_Material
+	Asset Name: /Game/Props/Roads/BasicRoad
+[2022.04.10-16.12.58:943][773]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.04.10-16.12.59:053][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.10-16.13.30:427][502]LogSourceControl: Writed 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/temp-5552918731e1dc6a90b39c8fb783e5adb499b32b-BasicRoad_Material.uasset' (107320o)
+[2022.04.10-16.13.30:444][502]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.04.10-16.13.30:444][502]LogWindows: Warning: URL: p4merge.exe "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextBasicRoad_Material-6.txt" "D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Diff/TextBasicRoad_Material-7.txt" 
+[2022.04.10-16.13.31:963][502]LogSlate: Window 'Message' being destroyed
+[2022.04.10-16.13.50:432][507]LogSlate: Window 'File History' being destroyed
+[2022.04.10-16.14.45:396][113]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/Roads/BasicRoad.BasicRoad
+[2022.04.10-16.14.45:916][113]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2022.04.10-16.14.48:044][255]LogSlate: Window 'BasicRoad' being destroyed
+[2022.04.10-16.14.48:059][255]LogSlate: Window 'BasicRoad' being destroyed
