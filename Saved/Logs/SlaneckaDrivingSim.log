@@ -850,3 +850,593 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-16.17.34:369][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
 [2022.04.10-16.17.46:451][977]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2022.04.10-16.17.56:335][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.04.10-16.18.38:283][ 86]LogSlate: Window 'Save Content' being destroyed
+[2022.04.10-16.19.25:917][ 65]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (47.619 sec). This should never happen. Something is wrong with the timer delegate!
+[2022.04.10-16.19.26:876][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.19.28:386][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-16.29.33:029][297]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.29.34:810][507]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator'
+[2022.04.10-16.29.34:888][507]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2022.04.10-16.29.34:889][507]EditorErrors: Warning: No assets to check in!
+[2022.04.10-16.29.37:953][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.29.44:242][506]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.29.45:487][651]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.29.47:354][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.29.48:623][ 14]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator'
+[2022.04.10-16.29.48:694][ 14]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2022.04.10-16.29.48:695][ 14]EditorErrors: Warning: No assets to check in!
+[2022.04.10-16.30.01:385][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.30.08:712][839]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator'
+[2022.04.10-16.30.08:785][839]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2022.04.10-16.30.08:786][839]EditorErrors: Warning: No assets to check in!
+[2022.04.10-16.30.13:418][348]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.30.15:238][557]LogSlate: Window 'Message Log' being destroyed
+[2022.04.10-16.30.15:247][557]LogSlate: Window 'Message Log' being destroyed
+[2022.04.10-16.30.15:946][639]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.30.19:632][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.30.52:197][558]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.10-16.30.52:208][558]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.10-16.31.11:996][131]LogSlate: Took 0.029590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.10-16.31.15:602][289]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2022.04.10-16.31.23:019][895]LogSlate: Window 'Save Content' being destroyed
+[2022.04.10-16.31.23:222][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.04.10-16.31.23:306][895]LogSavePackage: Moving 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Saved/Minimal_Default415DF5D744A51773D9D23798452D69DD.tmp' to 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-16.31.23:321][895]LogFileHelpers: Saving map 'Minimal_Default' took 0.120
+[2022.04.10-16.31.29:670][895]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-16.31.29:934][895]LogSourceControl: commit successful: [main 38b28ae] REEEEEEEEEEEEEEEEE
+[2022.04.10-16.31.29:956][895]SourceControl: [main 38b28ae] REEEEEEEEEEEEEEEEE
+[2022.04.10-16.31.29:956][895]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.04.10-16.31.29:974][895]SourceControl: Commited [main 38b28ae] REEEEEEEEEEEEEEEEE.
+[2022.04.10-16.31.38:826][921]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.31.38:839][921]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.31.40:346][ 98]SourceControl: fatal: D:/UE_4.22/Engine/Content: 'D:/UE_4.22/Engine/Content' is outside repository at 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator'
+[2022.04.10-16.31.40:417][ 98]LogFileHelpers: Warning: FilenameToLongPackageName failed to convert '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice.uasset'. Attempt result was '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/Materials/M_DefaultDevice', but the path contains illegal characters '.'
+[2022.04.10-16.31.40:418][ 98]EditorErrors: Warning: No assets to check in!
+[2022.04.10-16.32.04:378][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2022.04.10-16.32.04:455][885]LogSavePackage: Moving 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Saved/Minimal_Default6DAE264B4BE94A9BA5DBC4A914997AF7.tmp' to 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-16.32.04:538][885]LogSavePackage: Moving 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Saved/Minimal_Default_BuiltDataE6908966487B20E6B14094865C7F3C83.tmp' to 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.10-16.32.29:975][746]LogSlate: Window 'Submit Files' being destroyed
+[2022.04.10-16.32.30:263][746]LogSourceControl: commit successful: [main d4fc19d] REEEEEE LULW2
+[2022.04.10-16.32.30:286][746]SourceControl: [main d4fc19d] REEEEEE LULW2
+[2022.04.10-16.32.30:286][746]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2022.04.10-16.32.30:296][746]SourceControl: Commited [main d4fc19d] REEEEEE LULW2.
+[2022.04.10-16.32.46:317][373]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.32.46:327][373]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.33.05:211][604]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.33.05:223][604]LogSlate: Window 'Levels' being destroyed
+[2022.04.10-16.33.44:310][270]Cmd: EDIT COPY
+[2022.04.10-16.33.44:583][297]Cmd: EDIT PASTE
+[2022.04.10-16.33.53:731][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad)
+[2022.04.10-16.33.56:423][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad2)
+[2022.04.10-16.33.58:902][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad)
+[2022.04.10-16.33.59:503][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad2)
+[2022.04.10-16.34.00:105][136]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-16.34.16:718][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.34.16:776][132]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-16.34.16:781][132]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.34.16:781][132]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-16.34.16:781][132]LogHMD: Initializing OVRPlugin session
+[2022.04.10-16.34.16:806][132]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.04.10-16.34.16:806][132]PIE: New page: PIE session: Minimal_Default (Apr 10, 2022, 8:34:16 PM)
+[2022.04.10-16.34.16:807][132]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-16.34.16:810][132]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003244s)
+[2022.04.10-16.34.16:810][132]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-16.34.16:811][132]LogPlayLevel: PIE: World Init took: (0.000587s)
+[2022.04.10-16.34.16:811][132]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003927s)
+[2022.04.10-16.34.16:831][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.04.10-16.34.16:853][132]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.04.10-16.34.16:860][132]LogInit: FAudioDevice initialized.
+[2022.04.10-16.34.16:891][132]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-16.34.16:892][132]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-18.34.16
+[2022.04.10-16.34.16:892][132]LogWorld: Bringing up level for play took: 0.001010
+[2022.04.10-16.34.16:903][132]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.156
+[2022.04.10-16.34.16:904][132]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.36.15:208][323]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.36.15:213][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.36.15:239][323]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-16.36.15:240][323]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.36.15:261][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.36.15:264][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.10-16.36.15:315][328]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.10-16.36.21:384][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.36.26:770][616]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.36.28:554][827]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.36.31:177][137]Cmd: TRANSACTION UNDO
+[2022.04.10-16.36.31:177][137]LogEditorTransaction: Undo Move Actors
+[2022.04.10-16.36.31:605][161]Cmd: TRANSACTION UNDO
+[2022.04.10-16.36.31:605][161]LogEditorTransaction: Undo Create Actors
+[2022.04.10-16.36.33:116][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.36.33:290][334]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.36.34:434][470]LogActorFactory: Actor Factory created BasicRoad
+[2022.04.10-16.36.47:686][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad3)
+[2022.04.10-16.36.48:336][128]Cmd: DELETE
+[2022.04.10-16.36.48:337][128]Cmd: ACTOR DELETE
+[2022.04.10-16.36.48:338][128]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-16.36.48:357][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.10-16.36.48:358][128]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2022.04.10-16.36.50:962][441]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad2)
+[2022.04.10-16.36.51:688][525]Cmd: EDIT COPY
+[2022.04.10-16.36.51:897][550]Cmd: EDIT PASTE
+[2022.04.10-16.36.59:187][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.37.03:784][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.37.11:066][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.37.11:124][825]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-16.37.11:130][825]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.37.11:130][825]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-16.37.11:130][825]LogHMD: Initializing OVRPlugin session
+[2022.04.10-16.37.11:153][825]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.04.10-16.37.11:154][825]PIE: New page: PIE session: Minimal_Default (Apr 10, 2022, 8:37:11 PM)
+[2022.04.10-16.37.11:154][825]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-16.37.11:157][825]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003114s)
+[2022.04.10-16.37.11:158][825]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-16.37.11:158][825]LogPlayLevel: PIE: World Init took: (0.000557s)
+[2022.04.10-16.37.11:158][825]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003787s)
+[2022.04.10-16.37.11:177][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.10-16.37.11:198][825]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.04.10-16.37.11:204][825]LogInit: FAudioDevice initialized.
+[2022.04.10-16.37.11:235][825]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-16.37.11:236][825]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-18.37.11
+[2022.04.10-16.37.11:237][825]LogWorld: Bringing up level for play took: 0.000992
+[2022.04.10-16.37.11:248][825]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.189
+[2022.04.10-16.37.11:249][825]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.37.37:669][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.37.37:674][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.37.37:703][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-16.37.37:704][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.37.37:726][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.37.37:727][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.10-16.37.37:771][996]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.10-16.37.43:066][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad3)
+[2022.04.10-16.37.43:635][687]Cmd: EDIT COPY
+[2022.04.10-16.37.43:860][714]Cmd: EDIT PASTE
+[2022.04.10-16.37.59:749][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad2)
+[2022.04.10-16.38.10:181][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.38.21:826][227]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (BasicRoad2)
+[2022.04.10-16.38.22:023][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.38.22:797][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad3)
+[2022.04.10-16.38.26:359][731]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.38.30:590][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.38.35:224][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad3)
+[2022.04.10-16.38.36:851][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.38.37:995][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-16.38.38:731][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.38.47:356][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad3)
+[2022.04.10-16.38.49:288][446]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.39.10:170][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-16.39.10:855][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.39.12:660][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-16.39.13:246][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.39.13:998][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-16.39.14:205][365]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2022.04.10-16.39.14:640][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BasicRoad4)
+[2022.04.10-16.39.17:602][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.40.03:178][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.40.03:245][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-16.40.03:250][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.40.03:250][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-16.40.03:250][ 21]LogHMD: Initializing OVRPlugin session
+[2022.04.10-16.40.03:275][ 21]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.04.10-16.40.03:275][ 21]PIE: New page: PIE session: Minimal_Default (Apr 10, 2022, 8:40:03 PM)
+[2022.04.10-16.40.03:275][ 21]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-16.40.03:278][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002692s)
+[2022.04.10-16.40.03:278][ 21]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-16.40.03:278][ 21]LogPlayLevel: PIE: World Init took: (0.000403s)
+[2022.04.10-16.40.03:278][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003171s)
+[2022.04.10-16.40.03:298][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.04.10-16.40.03:318][ 21]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.04.10-16.40.03:325][ 21]LogInit: FAudioDevice initialized.
+[2022.04.10-16.40.03:353][ 21]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-16.40.03:354][ 21]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-18.40.03
+[2022.04.10-16.40.03:354][ 21]LogWorld: Bringing up level for play took: 0.001001
+[2022.04.10-16.40.03:367][ 21]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.307
+[2022.04.10-16.40.03:367][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.40.23:520][437]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.40.23:523][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.40.23:547][437]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-16.40.23:547][437]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.40.23:569][437]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.40.23:572][437]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2022.04.10-16.40.23:625][442]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.04.10-16.40.24:083][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.40.24:166][507]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-16.40.24:171][507]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.40.24:171][507]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-16.40.24:171][507]LogHMD: Initializing OVRPlugin session
+[2022.04.10-16.40.24:195][507]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.04.10-16.40.24:195][507]PIE: New page: PIE session: Minimal_Default (Apr 10, 2022, 8:40:24 PM)
+[2022.04.10-16.40.24:195][507]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-16.40.24:198][507]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003027s)
+[2022.04.10-16.40.24:199][507]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-16.40.24:199][507]LogPlayLevel: PIE: World Init took: (0.000406s)
+[2022.04.10-16.40.24:199][507]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003516s)
+[2022.04.10-16.40.24:218][507]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.10-16.40.24:239][507]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.04.10-16.40.24:246][507]LogInit: FAudioDevice initialized.
+[2022.04.10-16.40.24:274][507]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-16.40.24:275][507]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-18.40.24
+[2022.04.10-16.40.24:275][507]LogWorld: Bringing up level for play took: 0.001072
+[2022.04.10-16.40.24:287][507]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0.773
+[2022.04.10-16.40.24:287][507]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.16:756][800]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.16:762][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.41.16:788][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-16.41.16:788][800]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.16:810][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.41.16:812][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2022.04.10-16.41.16:863][805]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.10-16.41.17:429][873]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.41.17:479][879]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-16.41.17:485][879]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.17:485][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-16.41.17:485][879]LogHMD: Initializing OVRPlugin session
+[2022.04.10-16.41.17:510][879]LogHMD: Allocating Oculus 3008 x 1616 rendertarget swapchain
+[2022.04.10-16.41.17:510][879]PIE: New page: PIE session: Minimal_Default (Apr 10, 2022, 8:41:17 PM)
+[2022.04.10-16.41.17:510][879]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-16.41.17:513][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002651s)
+[2022.04.10-16.41.17:513][879]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-16.41.17:513][879]LogPlayLevel: PIE: World Init took: (0.000376s)
+[2022.04.10-16.41.17:513][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003102s)
+[2022.04.10-16.41.17:533][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.04.10-16.41.17:552][879]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2022.04.10-16.41.17:559][879]LogInit: FAudioDevice initialized.
+[2022.04.10-16.41.17:589][879]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-16.41.17:591][879]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-18.41.17
+[2022.04.10-16.41.17:591][879]LogWorld: Bringing up level for play took: 0.001046
+[2022.04.10-16.41.17:602][879]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0.542
+[2022.04.10-16.41.17:602][879]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.27:941][118]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.27:947][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.41.27:974][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-16.41.27:974][118]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-16.41.27:996][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-16.41.27:999][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.04.10-16.41.28:042][122]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.10-16.41.29:869][341]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-16.41.42:797][444]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-16.41.43:269][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-16.41.43:365][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.04.10-16.41.43:449][497]LogSavePackage: Moving 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Saved/Minimal_DefaultBF64511743A3DD56B6ACE6861A13DF4F.tmp' to 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-16.41.43:564][497]LogSavePackage: Moving 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Saved/Minimal_Default_BuiltData6A2DD9CD43195CF6854588A4827CAF51.tmp' to 'C:/Users/matej/Documents/GitHub/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.10-16.41.44:841][644]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.10-16.41.44:887][644]LogSlate: Window 'SlaneckaDrivingSim - Unreal Editor' being destroyed
+[2022.04.10-16.41.45:174][645]Cmd: QUIT_EDITOR
+[2022.04.10-16.41.45:430][645]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.04.10-16.41.45:439][645]LogExit: Preparing to exit.
+[2022.04.10-16.41.45:768][645]LogExit: Editor shut down
+[2022.04.10-16.41.45:768][645]LogExit: Transaction tracking system shut down
+[2022.04.10-16.41.45:843][645]LogExit: Object subsystem successfully closed.
+[2022.04.10-16.41.45:859][645]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.10-16.41.45:863][645]LogD3D11RHI: Shutdown
+[2022.04.10-16.41.45:863][645]LogD3D11RHI: CleanupD3DDevice
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-16.41.45:864][645]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-16.41.45:865][645]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module WorldBrowser (648)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (646)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (644)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module Voice (642)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2022.04.10-16.41.45:883][645]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module MeshBuilder (628)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module StatsViewer (626)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module FoliageEdit (624)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module LandscapeEditor (622)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module MeshPaintMode (620)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (618)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module ActorPickerMode (616)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module GeometryMode (614)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module TextureAlignMode (612)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module BspMode (610)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (608)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (606)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module AutomationWorker (604)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module OculusMR (602)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (600)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (598)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (596)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module PlacementMode (595)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module MaterialEditor (594)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (590)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2022.04.10-16.41.45:893][645]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (556)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (554)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (552)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module CharacterAI (550)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module SmartSnapping (548)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module SessionServices (546)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module MeshPaint (544)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2022.04.10-16.41.45:894][645]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2022.04.10-16.41.45:963][645]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (510)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module InputBindingEditor (508)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module MergeActors (506)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (504)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module LocalizationService (503)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module HardwareTargeting (500)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (498)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module UndoHistory (496)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module XmlParser (494)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module Blutility (492)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (490)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (489)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (486)
+[2022.04.10-16.41.45:964][645]LogModuleManager: Shutting down and abandoning module SettingsEditor (484)
+[2022.04.10-16.41.45:983][645]LogModuleManager: Shutting down and abandoning module ProjectLauncher (482)
+[2022.04.10-16.41.45:983][645]LogModuleManager: Shutting down and abandoning module SessionFrontend (480)
+[2022.04.10-16.41.45:983][645]LogModuleManager: Shutting down and abandoning module ProfilerClient (478)
+[2022.04.10-16.41.45:983][645]LogModuleManager: Shutting down and abandoning module DeviceManager (476)
+[2022.04.10-16.41.45:983][645]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (475)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module AutomationController (472)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module AutomationWindow (470)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module Layers (468)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (466)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module DetailCustomizations (464)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module PackagesDialog (462)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (460)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module Persona (458)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (457)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module AnimGraph (455)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module Kismet (452)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module GraphEditor (450)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module ClassViewer (448)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module Toolbox (446)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module ModuleUI (444)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module MovieSceneTools (442)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module OutputLog (440)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module GammaUI (438)
+[2022.04.10-16.41.46:015][645]LogModuleManager: Shutting down and abandoning module Documentation (436)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module LiveCoding (434)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module LevelSequence (432)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2022.04.10-16.41.46:016][645]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2022.04.10-16.41.46:018][645]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2022.04.10-16.41.46:038][645]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module OculusEditor (394)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2022.04.10-16.41.46:039][645]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2022.04.10-16.41.46:140][645]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2022.04.10-16.41.46:240][645]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2022.04.10-16.41.46:240][645]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2022.04.10-16.41.46:241][645]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2022.04.10-16.41.46:241][645]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2022.04.10-16.41.46:241][645]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2022.04.10-16.41.46:241][645]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2022.04.10-16.41.46:241][645]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2022.04.10-16.41.46:242][645]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2022.04.10-16.41.46:243][645]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module Core (172)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2022.04.10-16.41.46:244][645]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2022.04.10-16.41.46:281][645]LogDerivedDataCache: Shutdown
+[2022.04.10-16.41.46:281][645]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2022.04.10-16.41.46:281][645]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2022.04.10-16.41.46:282][645]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2022.04.10-16.41.46:283][645]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2022.04.10-16.41.46:283][645]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2022.04.10-16.41.46:283][645]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2022.04.10-16.41.46:283][645]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2022.04.10-16.41.46:283][645]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2022.04.10-16.41.46:284][645]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2022.04.10-16.41.46:284][645]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2022.04.10-16.41.46:285][645]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2022.04.10-16.41.46:285][645]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2022.04.10-16.41.46:293][645]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2022.04.10-16.41.46:293][645]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2022.04.10-16.41.46:293][645]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2022.04.10-16.41.46:293][645]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2022.04.10-16.41.46:294][645]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2022.04.10-16.41.46:295][645]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2022.04.10-16.41.46:295][645]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2022.04.10-16.41.46:298][645]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2022.04.10-16.41.46:298][645]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.10-16.41.46:298][645]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B62AF0350-487F-83D2-D896-67844F236C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=6dbcad4f438112ce2ced7d89dc95a065%7C5dd8d07a52454b218c38d883a6984cda%7C5b6d392d-f28c-4f66-bc87-81b2965bc433&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.04.10-16.41.46:307][645]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2022.04.10-16.41.46:308][645]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2022.04.10-16.41.46:309][645]LogModuleManager: Shutting down and abandoning module Media (45)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.10-16.41.46:315][645]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.10-16.41.46:324][645]LogExit: Exiting.
+[2022.04.10-16.41.46:338][645]Log file closed, 04/10/22 18:41:46
