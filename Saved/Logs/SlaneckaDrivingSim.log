@@ -2066,3 +2066,801 @@ Script Stack (0 frames):
 [2022.04.10-15.10.42:273][563]LogFileHelpers: Saving map 'Minimal_Default' took 0.194
 [2022.04.10-15.13.39:806][184]SourceControl: Source control is disabled
 [2022.04.10-15.13.41:450][299]LogSlate: Window 'Source Control Login' being destroyed
+[2022.04.10-15.15.38:660][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.16.14:841][794]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board.fbx)
+[2022.04.10-15.16.14:850][794]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board.fbx
+[2022.04.10-15.16.14:878][794]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.10-15.16.33:638][794]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.10-15.16.33:686][794]LogLinker: Can't find file '/Game/Props/DirectionalBoard/directional_board'
+[2022.04.10-15.16.33:686][794]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\traffic_signs\directional_board.png
+[2022.04.10-15.16.33:691][794]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.16.33:700][794]LogFbx: Display: Triangulating static mesh directional_board
+[2022.04.10-15.16.33:771][794]LogStaticMesh: Building static mesh directional_board...
+[2022.04.10-15.16.33:774][794]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2022.04.10-15.16.33:791][794]LogStaticMesh: Built static mesh [0.02s] /Game/Props/DirectionalBoard/directional_board.directional_board
+[2022.04.10-15.16.33:821][794]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board_lr.fbx)
+[2022.04.10-15.16.33:831][794]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board_lr.fbx
+[2022.04.10-15.16.33:839][794]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.10-15.16.33:843][794]LogLinker: Can't find file '/Game/Props/DirectionalBoard/directional_board_lr'
+[2022.04.10-15.16.33:844][794]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\traffic_signs\directional_board_lr.png
+[2022.04.10-15.16.33:847][794]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.16.33:857][794]LogFbx: Display: Triangulating static mesh directional_board_rl
+[2022.04.10-15.16.33:860][794]LogStaticMesh: Building static mesh directional_board_lr...
+[2022.04.10-15.16.33:864][794]LogStaticMesh: Built static mesh [0.00s] /Game/Props/DirectionalBoard/directional_board_lr.directional_board_lr
+[2022.04.10-15.16.37:687][ 56]LogAssetEditorManager: Opening Asset editor for Material /Game/Props/DirectionalBoard/directional_material.directional_material
+[2022.04.10-15.16.37:689][ 56]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.16.38:042][ 56]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.16.38:054][ 56]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.16.38:071][ 56]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.16.38:097][ 56]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.10-15.16.38:304][ 69]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.16.39:100][ 83]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.10-15.16.39:100][ 83]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.10-15.16.39:100][ 83]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.16.39:100][ 83]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.17.24:463][816]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (50.240 sec). This should never happen. Something is wrong with the timer delegate!
+[2022.04.10-15.17.44:399][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.17.49:405][181]LogMaterialEditor: Applying material directional_material
+[2022.04.10-15.17.49:738][181]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.17.49:769][181]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.17.49:778][181]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.17.49:795][181]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.17.49:904][181]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.04.10-15.17.49:911][181]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.10-15.17.50:714][181]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.10-15.17.50:716][181]TextureStreamingBuild: Display: Compiling optional shaders took 0.811 seconds.
+[2022.04.10-15.17.50:793][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2022.04.10-15.17.51:620][221]LogMaterialEditor: Saving and Compiling material directional_material
+[2022.04.10-15.17.52:608][221]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_materialBE569B5F41DA41D7DD61EDBADA725CA8.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_material.uasset'
+[2022.04.10-15.17.52:621][221]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.10-15.17.52:621][221]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.10-15.17.52:621][221]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.17.52:621][221]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.18.33:905][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.20.10:771][830]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board_lr_texture.png)
+[2022.04.10-15.20.10:811][830]LogTexture: Display: Building textures: directional_board_lr_texture (AutoDXT, 2048X2048)
+[2022.04.10-15.20.10:937][830]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\directional_board_texture.png)
+[2022.04.10-15.20.10:972][830]LogTexture: Display: Building textures: directional_board_texture (AutoDXT, 2048X2048)
+[2022.04.10-15.20.18:280][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.20.18:545][388]LogAssetEditorManager: Opening Asset editor for Material /Game/Props/DirectionalBoard/directional_lr_material.directional_lr_material
+[2022.04.10-15.20.18:547][388]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.20.18:891][388]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.20.18:901][388]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.20.18:926][388]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.20.18:939][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.10-15.20.19:300][422]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.20.20:311][491]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.10-15.20.20:311][491]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.10-15.20.20:311][491]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.20.20:311][491]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.20.23:657][700]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.20.23:676][701]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.20.23:896][727]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.20.24:688][805]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.10-15.20.24:688][805]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.10-15.20.24:688][805]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.20.24:688][805]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.20.35:051][266]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.20.35:071][267]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.20.35:296][294]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.20.36:253][347]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.10-15.20.36:253][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.10-15.20.36:253][347]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.20.36:253][347]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.20.52:761][204]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.20.52:773][204]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.20.52:780][204]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.20.52:805][204]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.20.53:005][219]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.20.53:732][258]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.10-15.20.53:732][258]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.10-15.20.53:732][258]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.20.53:732][258]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.20.54:820][312]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.20.54:837][312]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.20.54:853][312]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.20.55:069][320]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.10-15.20.55:870][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-15.21.00:615][468]LogSlate: Window 'Message' being destroyed
+[2022.04.10-15.21.00:948][468]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.21.00:987][468]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.21.00:992][468]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.21.01:006][468]LogMaterial: Display: Missing cached shader map for material directional_material, compiling. 
+[2022.04.10-15.21.01:048][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.04.10-15.21.01:056][468]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.10-15.21.01:782][468]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.10-15.21.01:783][468]TextureStreamingBuild: Display: Compiling optional shaders took 0.735 seconds.
+[2022.04.10-15.21.01:806][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.10-15.21.03:969][574]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.21.03:980][574]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.21.03:988][574]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.21.04:013][574]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.21.04:202][585]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.21.04:931][614]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.10-15.21.04:931][614]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.10-15.21.04:931][614]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.10-15.21.04:931][614]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.10-15.21.05:284][632]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.21.05:294][632]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.21.05:297][632]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.10-15.21.05:515][641]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.10-15.21.06:277][684]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.10-15.21.06:461][694]LogMaterialEditor: Applying material directional_lr_material
+[2022.04.10-15.21.06:790][694]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.21.06:822][694]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.10-15.21.06:831][694]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.21.06:850][694]LogMaterial: Display: Missing cached shader map for material directional_lr_material, compiling. 
+[2022.04.10-15.21.06:887][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.04.10-15.21.06:897][694]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.10-15.21.07:647][694]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.10-15.21.07:649][694]TextureStreamingBuild: Display: Compiling optional shaders took 0.761 seconds.
+[2022.04.10-15.21.07:676][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.04.10-15.21.09:405][811]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.10-15.21.09:421][811]LogSlate: Window 'Content Browser' being destroyed
+[2022.04.10-15.21.13:338][161]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.13:578][173]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/DirectionalBoard/directional_board_lr.directional_board_lr
+[2022.04.10-15.21.13:625][173]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2022.04.10-15.21.14:368][173]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2022.04.10-15.21.26:158][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.26:269][948]LogSlate: Window 'directional_board_lr' being destroyed
+[2022.04.10-15.21.29:817][175]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.31:147][333]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.33:881][656]Cmd: DELETE
+[2022.04.10-15.21.33:881][656]Cmd: ACTOR DELETE
+[2022.04.10-15.21.33:904][656]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-15.21.33:962][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.04.10-15.21.33:962][656]LogEditorActor: Deleted 1 Actors (0.060 secs)
+[2022.04.10-15.21.36:273][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.36:430][909]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.36:990][976]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.37:729][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.37:862][ 45]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.38:894][168]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.39:137][195]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-15.21.39:928][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.40:134][267]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.42:407][539]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.42:868][575]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.43:111][587]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.44:139][710]LogActorFactory: Actor Factory created directional_board_lr
+[2022.04.10-15.21.44:392][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2022.04.10-15.21.48:260][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.21.48:321][124]LogTemp: Repeating last play command: Standalone Game
+[2022.04.10-15.21.48:364][124]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.04.10-15.21.49:389][124]LogSlate: Window 'Save Content' being destroyed
+[2022.04.10-15.21.49:393][124]LogPlayLevel: Warning: PIE failed because map save was canceled
+[2022.04.10-15.21.49:393][124]PIE: Warning: PIE failed because map save was canceled
+[2022.04.10-15.21.50:541][206]LogSlate: Window 'Message Log' being destroyed
+[2022.04.10-15.21.50:557][206]LogSlate: Window 'Message Log' being destroyed
+[2022.04.10-15.21.52:742][334]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.21.52:742][334]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.10-15.21.52:742][334]LogPlayLevel: [PlayLevel] Compiling FabiaAnim before play...
+[2022.04.10-15.21.52:849][334]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.10-15.21.52:849][334]LogPlayLevel: PlayLevel: Blueprint regeneration took 106 ms (1 blueprints)
+[2022.04.10-15.21.52:849][334]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:21:52)
+[2022.04.10-15.21.52:849][334]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.21.52:851][334]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002539s)
+[2022.04.10-15.21.52:852][334]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.21.52:852][334]LogPlayLevel: PIE: World Init took: (0.000420s)
+[2022.04.10-15.21.52:852][334]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003046s)
+[2022.04.10-15.21.52:873][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.10-15.21.52:985][334]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.21.53:006][334]LogInit: FAudioDevice initialized.
+[2022.04.10-15.21.53:031][334]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.21.53:032][334]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.21.53
+[2022.04.10-15.21.53:032][334]LogWorld: Bringing up level for play took: 0.000833
+[2022.04.10-15.21.53:043][334]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,109
+[2022.04.10-15.21.53:043][334]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.22.01:313][324]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.22.01:313][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.22.01:345][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.22.01:345][324]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.22.01:373][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.22.01:376][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.04.10-15.22.01:416][327]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2022.04.10-15.22.28:592][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.04.10-15.22.28:706][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default_Auto452890F374ABDD7A9A50091BBBCE24595.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2022.04.10-15.22.28:707][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/StarterContent/Maps/Minimal_Default' took 0.138
+[2022.04.10-15.22.28:707][748]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.138
+[2022.04.10-15.22.28:709][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_board] ([1] browsable assets)...
+[2022.04.10-15.22.28:719][748]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/DirectionalBoard/directional_board.directional_board]
+[2022.04.10-15.22.28:719][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_board]
+[2022.04.10-15.22.28:771][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_Auto4564B061F484B26A143970A99D2FCC9BD.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_board_Auto4.uasset'
+[2022.04.10-15.22.28:772][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_material] ([1] browsable assets)...
+[2022.04.10-15.22.28:781][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/DirectionalBoard/directional_material.directional_material]
+[2022.04.10-15.22.28:781][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_material]
+[2022.04.10-15.22.28:812][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_material_Auto4538983934C150E8789CE1AB01DCA7266.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_material_Auto4.uasset'
+[2022.04.10-15.22.28:813][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_lr_material] ([1] browsable assets)...
+[2022.04.10-15.22.28:823][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Props/DirectionalBoard/directional_lr_material.directional_lr_material]
+[2022.04.10-15.22.28:823][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_lr_material]
+[2022.04.10-15.22.28:832][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_lr_material_Auto4CD1E3CCF4C68D00651DFBC9EC446F796.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_lr_material_Auto4.uasset'
+[2022.04.10-15.22.28:833][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_board_lr] ([1] browsable assets)...
+[2022.04.10-15.22.28:843][748]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Props/DirectionalBoard/directional_board_lr.directional_board_lr]
+[2022.04.10-15.22.28:843][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_board_lr]
+[2022.04.10-15.22.28:853][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lr_Auto4336CA44A4288A849DB8C8A902837C826.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_board_lr_Auto4.uasset'
+[2022.04.10-15.22.28:854][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_board_lr_texture] ([1] browsable assets)...
+[2022.04.10-15.22.28:858][748]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/DirectionalBoard/directional_board_lr_texture.directional_board_lr_texture]
+[2022.04.10-15.22.28:858][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_board_lr_texture]
+[2022.04.10-15.22.28:866][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lr_texture_AutC8A93C2C4162D3A551F27EAE28617657.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_board_lr_texture_Auto4.uasset'
+[2022.04.10-15.22.28:867][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Props/DirectionalBoard/directional_board_texture] ([1] browsable assets)...
+[2022.04.10-15.22.28:871][748]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Props/DirectionalBoard/directional_board_texture.directional_board_texture]
+[2022.04.10-15.22.28:872][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/Props/DirectionalBoard/directional_board_texture]
+[2022.04.10-15.22.28:879][748]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_texture_Auto439AE0E8947F4D7642B3BD5A643855A17.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Autosaves/Game/Props/DirectionalBoard/directional_board_texture_Auto4.uasset'
+[2022.04.10-15.22.28:880][748]LogFileHelpers: Auto-saving content packages took 0.171
+[2022.04.10-15.23.13:676][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.23.13:904][883]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/DirectionalBoard/directional_board_lr.directional_board_lr
+[2022.04.10-15.23.36:688][740]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.10-15.23.38:872][858]LogSlate: Window 'directional_board_lr' being destroyed
+[2022.04.10-15.23.59:408][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.23.59:515][753]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lrCA1576AE49925FC2ECBEC5B75FABC739.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board_lr.uasset'
+[2022.04.10-15.24.01:668][849]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Props/DirectionalBoard/directional_board.directional_board
+[2022.04.10-15.24.07:831][199]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board218826D9404BA3563DFD499CFF2C4BEF.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board.uasset'
+[2022.04.10-15.24.10:297][254]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.10-15.24.10:409][254]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default1B11D9F14E9F4035CD119894E0CAB5D8.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-15.24.10:442][254]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default_BuiltDataAD1C2D7241DDCDAFFF276A82B6C457AE.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.10-15.24.13:126][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board_lr4)
+[2022.04.10-15.24.15:152][608]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.16:273][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board_lr3)
+[2022.04.10-15.24.18:464][842]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.19:610][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board_lr2)
+[2022.04.10-15.24.20:614][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.21:586][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board_lr)
+[2022.04.10-15.24.22:498][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.25:476][472]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.25:549][478]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.24.25:556][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.24.25:556][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.24.25:556][478]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:24:25)
+[2022.04.10-15.24.25:556][478]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.24.25:559][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003148s)
+[2022.04.10-15.24.25:560][478]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.24.25:560][478]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2022.04.10-15.24.25:560][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003669s)
+[2022.04.10-15.24.25:587][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.04.10-15.24.25:691][478]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.24.25:711][478]LogInit: FAudioDevice initialized.
+[2022.04.10-15.24.25:737][478]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.24.25:738][478]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.24.25
+[2022.04.10-15.24.25:738][478]LogWorld: Bringing up level for play took: 0.000889
+[2022.04.10-15.24.25:750][478]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,815
+[2022.04.10-15.24.25:750][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.24.38:983][ 13]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.24.38:983][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.24.39:010][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.24.39:010][ 13]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.24.39:039][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.24.39:043][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.04.10-15.24.39:084][ 15]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2022.04.10-15.24.42:433][378]LogEditorViewport: Clicking on Actor (LMB): FabiaBP_C (FabiaBP)
+[2022.04.10-15.24.52:066][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.55:967][810]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-15.24.57:084][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.24.57:881][974]LogEditorViewport: Clicking on Actor (LMB): FabiaBP_C (FabiaBP)
+[2022.04.10-15.25.01:413][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.25.06:645][870]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.25.13:886][568]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.25.13:972][575]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.25.13:979][575]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.25.13:979][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.25.13:980][575]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:25:13)
+[2022.04.10-15.25.13:980][575]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.25.13:983][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003110s)
+[2022.04.10-15.25.13:983][575]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.25.13:983][575]LogPlayLevel: PIE: World Init took: (0.000390s)
+[2022.04.10-15.25.13:983][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003595s)
+[2022.04.10-15.25.14:008][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.10-15.25.14:114][575]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.25.14:134][575]LogInit: FAudioDevice initialized.
+[2022.04.10-15.25.14:162][575]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.25.14:163][575]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.25.14
+[2022.04.10-15.25.14:163][575]LogWorld: Bringing up level for play took: 0.000891
+[2022.04.10-15.25.14:175][575]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,76
+[2022.04.10-15.25.14:175][575]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.25.26:468][980]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.25.26:468][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.25.26:498][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.25.26:498][980]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.25.26:525][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.25.26:528][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.10-15.25.26:571][982]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2022.04.10-15.25.32:169][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.27.52:864][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.27.56:081][916]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.27.56:090][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.27.56:090][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.27.56:091][916]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:27:56)
+[2022.04.10-15.27.56:091][916]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.27.56:093][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002736s)
+[2022.04.10-15.27.56:094][916]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.27.56:094][916]LogPlayLevel: PIE: World Init took: (0.000409s)
+[2022.04.10-15.27.56:094][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003242s)
+[2022.04.10-15.27.56:118][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.10-15.27.56:224][916]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.27.56:245][916]LogInit: FAudioDevice initialized.
+[2022.04.10-15.27.56:274][916]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.27.56:275][916]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.27.56
+[2022.04.10-15.27.56:275][916]LogWorld: Bringing up level for play took: 0.000853
+[2022.04.10-15.27.56:287][916]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default -0,648
+[2022.04.10-15.27.56:287][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.10:568][620]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.10:568][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.10:594][620]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.28.10:594][620]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.10:623][620]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.10:626][620]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.04.10-15.28.10:675][624]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2022.04.10-15.28.11:429][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.28.11:429][663]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.28.11:437][663]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.11:437][663]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.28.11:437][663]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:28:11)
+[2022.04.10-15.28.11:438][663]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.28.11:440][663]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002611s)
+[2022.04.10-15.28.11:441][663]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.28.11:441][663]LogPlayLevel: PIE: World Init took: (0.000512s)
+[2022.04.10-15.28.11:441][663]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003226s)
+[2022.04.10-15.28.11:459][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.04.10-15.28.11:571][663]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.28.11:591][663]LogInit: FAudioDevice initialized.
+[2022.04.10-15.28.11:616][663]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.28.11:617][663]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.28.11
+[2022.04.10-15.28.11:617][663]LogWorld: Bringing up level for play took: 0.000936
+[2022.04.10-15.28.11:629][663]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,694
+[2022.04.10-15.28.11:629][663]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.28:475][632]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.28:475][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.28:505][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.28.28:505][632]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.28:534][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.28:537][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.04.10-15.28.28:580][636]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2022.04.10-15.28.31:907][987]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.28.31:908][987]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.28.31:926][987]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.31:926][987]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.28.31:927][987]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:28:31)
+[2022.04.10-15.28.31:927][987]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.28.31:931][987]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004568s)
+[2022.04.10-15.28.31:932][987]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.28.31:932][987]LogPlayLevel: PIE: World Init took: (0.000544s)
+[2022.04.10-15.28.31:932][987]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005258s)
+[2022.04.10-15.28.31:959][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2022.04.10-15.28.32:068][987]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.28.32:088][987]LogInit: FAudioDevice initialized.
+[2022.04.10-15.28.32:115][987]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.28.32:117][987]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.28.32
+[2022.04.10-15.28.32:117][987]LogWorld: Bringing up level for play took: 0.000873
+[2022.04.10-15.28.32:129][987]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,194
+[2022.04.10-15.28.32:129][987]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.42:436][210]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.42:436][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.42:467][210]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.28.42:467][210]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.42:493][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.28.42:496][210]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.10-15.28.42:537][213]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2022.04.10-15.28.47:392][736]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.28.47:501][745]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.28.47:509][745]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.28.47:509][745]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.28.47:509][745]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:28:47)
+[2022.04.10-15.28.47:509][745]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.28.47:511][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002640s)
+[2022.04.10-15.28.47:512][745]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.28.47:512][745]LogPlayLevel: PIE: World Init took: (0.000382s)
+[2022.04.10-15.28.47:512][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003120s)
+[2022.04.10-15.28.47:534][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.04.10-15.28.47:640][745]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.28.47:660][745]LogInit: FAudioDevice initialized.
+[2022.04.10-15.28.47:687][745]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.28.47:689][745]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.28.47
+[2022.04.10-15.28.47:689][745]LogWorld: Bringing up level for play took: 0.000860
+[2022.04.10-15.28.47:701][745]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,766
+[2022.04.10-15.28.47:701][745]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.02:619][533]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.02:619][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.29.02:648][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.29.02:648][533]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.02:676][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.29.02:680][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.04.10-15.29.02:720][536]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2022.04.10-15.29.03:440][589]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.29.03:850][633]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.10-15.29.03:858][633]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.03:858][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.10-15.29.03:859][633]PIE: New page: PIE session: Minimal_Default (10 Apr 2022 19:29:03)
+[2022.04.10-15.29.03:859][633]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.10-15.29.03:861][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002554s)
+[2022.04.10-15.29.03:862][633]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.10-15.29.03:862][633]LogPlayLevel: PIE: World Init took: (0.000395s)
+[2022.04.10-15.29.03:862][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.003039s)
+[2022.04.10-15.29.03:883][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.04.10-15.29.03:990][633]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.10-15.29.04:011][633]LogInit: FAudioDevice initialized.
+[2022.04.10-15.29.04:039][633]LogLoad: Game class is 'GameModeBase'
+[2022.04.10-15.29.04:040][633]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.10-17.29.04
+[2022.04.10-15.29.04:040][633]LogWorld: Bringing up level for play took: 0.001018
+[2022.04.10-15.29.04:052][633]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 1,117
+[2022.04.10-15.29.04:052][633]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.13:828][804]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.13:828][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.29.13:858][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.10-15.29.13:858][804]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.10-15.29.13:883][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.10-15.29.13:887][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.04.10-15.29.13:935][808]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2022.04.10-15.29.24:313][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.29.24:496][890]LogActorFactory: Actor Factory created directional_board
+[2022.04.10-15.29.26:116][ 84]LogActorFactory: Actor Factory created directional_board
+[2022.04.10-15.29.32:572][855]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-15.29.33:729][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board)
+[2022.04.10-15.29.43:004][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.29.46:189][186]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.29.46:991][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (directional_board)
+[2022.04.10-15.29.49:378][508]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.04.10-15.29.52:548][825]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.10-15.29.53:056][832]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.04.10-15.29.53:190][832]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_DefaultB67864DB4A37A907935A62873B1716AB.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.10-15.29.53:223][832]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default_BuiltData65494129487EFC3874DFB2BC1CBBF380.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.10-15.29.58:238][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.04.10-15.29.59:534][217]LogSlate: Window 'Save Content' being destroyed
+[2022.04.10-15.29.59:665][217]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lr_textureFD1AA64F4574CD7D1E5CEE8523EE14F5.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board_lr_texture.uasset'
+[2022.04.10-15.29.59:781][217]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_texture52AF03EE444E3709439B08BE46C860A3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board_texture.uasset'
+[2022.04.10-15.29.59:787][217]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_lr_material38C0DAE74CA262F83E2CD2BF5E40EFB3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_lr_material.uasset'
+[2022.04.10-15.29.59:797][217]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_material3228AB134BE023C3DEB12EAE9A0173B0.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_material.uasset'
+[2022.04.10-15.29.59:841][217]LogSlate: Window 'SlaneckaDrivingSim - Unreal Editor' being destroyed
+[2022.04.10-15.30.00:048][218]Cmd: QUIT_EDITOR
+[2022.04.10-15.30.00:289][218]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2022.04.10-15.30.00:297][218]LogExit: Preparing to exit.
+[2022.04.10-15.30.01:035][218]LogExit: Editor shut down
+[2022.04.10-15.30.01:036][218]LogExit: Transaction tracking system shut down
+[2022.04.10-15.30.01:202][218]LogExit: Object subsystem successfully closed.
+[2022.04.10-15.30.01:224][218]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.04.10-15.30.01:249][218]LogD3D11RHI: Shutdown
+[2022.04.10-15.30.01:250][218]LogD3D11RHI: CleanupD3DDevice
+[2022.04.10-15.30.01:251][218]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-15.30.01:251][218]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-15.30.01:252][218]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-15.30.01:252][218]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-15.30.01:252][218]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2022.04.10-15.30.01:252][218]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2022.04.10-15.30.01:392][218]LogD3D11RHI: ~FD3D11DynamicRHI
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (656)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module MeshBuilder (654)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (652)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (650)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module Voice (648)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module PinnedCommandList (646)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module SkeletonEditor (644)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (642)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module BlueprintGraph (640)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (638)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module SceneOutliner (636)
+[2022.04.10-15.30.01:401][218]LogModuleManager: Shutting down and abandoning module AddContentDialog (634)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module WidgetCarousel (633)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module EditorWidgets (630)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module CollectionManager (628)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module StatsViewer (626)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module FoliageEdit (624)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module LandscapeEditor (622)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module MeshPaintMode (620)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (618)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module ActorPickerMode (616)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module GeometryMode (614)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module TextureAlignMode (612)
+[2022.04.10-15.30.01:403][218]LogModuleManager: Shutting down and abandoning module BspMode (610)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (608)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (606)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AutomationWorker (604)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module OculusMR (602)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (600)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (598)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (596)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module PlacementMode (595)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MaterialEditor (594)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (590)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (588)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (586)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (584)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (582)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module WebMMedia (580)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (578)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (576)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module SequenceRecorder (575)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (572)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (570)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (568)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (566)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (564)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (562)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (560)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (558)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (556)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (554)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (552)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module CharacterAI (550)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module SmartSnapping (548)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module SessionServices (546)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module MeshPaint (544)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ViewportSnapping (542)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ViewportInteraction (540)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module ClothPainter (538)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (537)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module LogVisualizer (534)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module IntroTutorials (532)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (531)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (528)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (526)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (524)
+[2022.04.10-15.30.01:404][218]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (522)
+[2022.04.10-15.30.01:405][218]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (521)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (518)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (516)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (514)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (512)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (510)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module InputBindingEditor (508)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module MergeActors (506)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (504)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module LocalizationService (503)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module HardwareTargeting (500)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (498)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module UndoHistory (496)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module XmlParser (494)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module Blutility (492)
+[2022.04.10-15.30.01:969][218]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (490)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (489)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (486)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module SettingsEditor (484)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module ProjectLauncher (482)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module SessionFrontend (480)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module ProfilerClient (478)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module DeviceManager (476)
+[2022.04.10-15.30.01:970][218]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (475)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module AutomationController (472)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module AutomationWindow (470)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module Layers (468)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (466)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module DetailCustomizations (464)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module PackagesDialog (462)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (460)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module Persona (458)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (457)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module AnimGraph (455)
+[2022.04.10-15.30.02:014][218]LogModuleManager: Shutting down and abandoning module Kismet (452)
+[2022.04.10-15.30.02:018][218]LogModuleManager: Shutting down and abandoning module GraphEditor (450)
+[2022.04.10-15.30.02:018][218]LogModuleManager: Shutting down and abandoning module ClassViewer (448)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module Toolbox (446)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module ModuleUI (444)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module MovieSceneTools (442)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module OutputLog (440)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module GammaUI (438)
+[2022.04.10-15.30.02:019][218]LogModuleManager: Shutting down and abandoning module Documentation (436)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module LiveCoding (434)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module LevelSequence (432)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (430)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module MovieScene (428)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (426)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module LauncherPlatform (424)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module AnalyticsET (422)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module PortalServices (420)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module PortalRpc (418)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module MessagingRpc (416)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module AIModule (414)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module GameplayDebugger (413)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module AITestSuite (411)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module NavigationSystem (409)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module DesktopPlatform (406)
+[2022.04.10-15.30.02:020][218]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (404)
+[2022.04.10-15.30.02:023][218]LogModuleManager: Shutting down and abandoning module ProfilerService (402)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module TaskGraph (400)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (398)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (396)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module OculusEditor (394)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (366)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (364)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (362)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module HTML5Networking (360)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (358)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (356)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module BackChannel (354)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AppleVision (352)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (350)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AppleImageUtils (348)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AlembicImporter (346)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module AlembicLibrary (345)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module GeometryCache (344)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (343)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module VariantManagerContent (338)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (336)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (334)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module PluginBrowser (332)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (330)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (328)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (326)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module CryptoKeys (324)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (322)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (320)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module UObjectPlugin (318)
+[2022.04.10-15.30.02:117][218]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (316)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (314)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module GitSourceControl (312)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module SourceControl (311)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (308)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (306)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (304)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (302)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module SignificanceManager (292)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (290)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (288)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module PhysXVehicles (286)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (284)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module ActorSequence (282)
+[2022.04.10-15.30.02:118][218]LogModuleManager: Shutting down and abandoning module UdpMessaging (280)
+[2022.04.10-15.30.02:219][218]LogModuleManager: Shutting down and abandoning module TcpMessaging (278)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (276)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (274)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (272)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (270)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapController (268)
+[2022.04.10-15.30.02:319][218]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module MagicLeapAR (266)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module AugmentedReality (265)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (262)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (260)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module FacialAnimation (258)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module DataValidation (256)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (254)
+[2022.04.10-15.30.02:319][218]LogModuleManager: Shutting down and abandoning module LevelEditor (253)
+[2022.04.10-15.30.02:321][218]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (252)
+[2022.04.10-15.30.02:321][218]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (250)
+[2022.04.10-15.30.02:321][218]LogModuleManager: Shutting down and abandoning module MainFrame (248)
+[2022.04.10-15.30.02:321][218]LogModuleManager: Shutting down and abandoning module HotReload (247)
+[2022.04.10-15.30.02:321][218]LogModuleManager: Shutting down and abandoning module ContentBrowser (243)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module TreeMap (241)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module AnimationSharing (238)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (236)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module AISupportModule (234)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (228)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2022.04.10-15.30.02:322][218]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module MediaAssets (220)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2022.04.10-15.30.02:323][218]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module UnrealEd (184)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module MRMesh (182)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (180)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (178)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module XAudio2 (176)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module Networking (174)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module Core (172)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (165)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (163)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2022.04.10-15.30.02:325][218]LogModuleManager: Shutting down and abandoning module DerivedDataCache (152)
+[2022.04.10-15.30.02:364][218]LogDerivedDataCache: Shutdown
+[2022.04.10-15.30.02:364][218]LogModuleManager: Shutting down and abandoning module XGEController (150)
+[2022.04.10-15.30.02:364][218]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2022.04.10-15.30.02:364][218]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2022.04.10-15.30.02:364][218]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2022.04.10-15.30.02:364][218]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2022.04.10-15.30.02:365][218]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (117)
+[2022.04.10-15.30.02:372][218]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2022.04.10-15.30.02:373][218]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2022.04.10-15.30.02:373][218]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2022.04.10-15.30.02:373][218]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2022.04.10-15.30.02:373][218]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2022.04.10-15.30.02:376][218]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2022.04.10-15.30.02:376][218]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2022.04.10-15.30.02:379][218]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2022.04.10-15.30.02:379][218]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (97)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (95)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (93)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (91)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (89)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (87)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (85)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (83)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (81)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module InputCore (78)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module Settings (76)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (74)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module PhysXCooking (72)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2022.04.10-15.30.02:406][218]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2022.04.10-15.30.02:407][218]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2022.04.10-15.30.02:407][218]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2022.04.10-15.30.02:440][218]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2022.04.10-15.30.02:440][218]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2022.04.10-15.30.02:440][218]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD77A2563-43D3-8B6A-2EBA-DA88707085E2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=bb5bb3cf4b1f2a8975650f95a789dd6c%7C64bc145ddd8b437d870ac8cfe691e6f8%7Cce918509-003f-48c4-aa5a-ce2483bc2d79&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2022.04.10-15.30.02:453][218]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2022.04.10-15.30.02:454][218]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2022.04.10-15.30.02:456][218]LogModuleManager: Shutting down and abandoning module Media (45)
+[2022.04.10-15.30.02:462][218]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2022.04.10-15.30.02:462][218]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2022.04.10-15.30.02:462][218]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2022.04.10-15.30.02:462][218]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2022.04.10-15.30.02:462][218]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2022.04.10-15.30.02:463][218]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2022.04.10-15.30.02:463][218]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2022.04.10-15.30.02:463][218]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2022.04.10-15.30.02:463][218]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2022.04.10-15.30.02:464][218]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2022.04.10-15.30.02:472][218]LogExit: Exiting.
+[2022.04.10-15.30.02:505][218]Log file closed, 04/10/22 17:30:02
