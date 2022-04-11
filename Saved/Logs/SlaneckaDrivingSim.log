@@ -3329,3 +3329,386 @@ Please update your composite fonts to use localized sub-font families: https://d
 [2022.04.11-13.26.59:437][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
 [2022.04.11-13.26.59:476][338]LogPlayLevel: Display: Destroying online subsystem :Context_104
 [2022.04.11-13.27.08:682][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.40.31:974][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.40.48:245][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_texture596046E140F793FB34F08D94B59E670A.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/road_texture.uasset'
+[2022.04.11-13.40.48:427][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/road_texture" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/road_texture.uasset" SILENT=true
+[2022.04.11-13.40.48:434][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_texture1CEF0E304E1E06F3DEEF958AD4FCA44A.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/road_texture.uasset'
+[2022.04.11-13.40.48:459][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/Basic_Road/BasicRoad" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/BasicRoad.uasset" SILENT=true
+[2022.04.11-13.40.48:494][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoadFD836DCC4235E6EB9A8B178B242CB42F.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/BasicRoad.uasset'
+[2022.04.11-13.40.48:664][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/BasicRoad" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad.uasset" SILENT=true
+[2022.04.11-13.40.48:696][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad412AE9154B23718920EFE090815D65B9.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad.uasset'
+[2022.04.11-13.40.48:730][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_Material20577EAF498B6EA419A415B3777AE6B7.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/BasicRoad_Material.uasset'
+[2022.04.11-13.40.48:932][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/BasicRoad_Material" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad_Material.uasset" SILENT=true
+[2022.04.11-13.40.48:939][774]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_MaterialDE58A1224D167451AE66BBA01D26F37A.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad_Material.uasset'
+[2022.04.11-13.41.16:945][865]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road\road_dashed_texture.png)
+[2022.04.11-13.41.16:994][865]LogTexture: Display: Building textures: road_dashed_texture (AutoDXT, 2048X2048)
+[2022.04.11-13.41.17:155][865]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road\road_dashed.fbx)
+[2022.04.11-13.41.17:328][865]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road\road_dashed.fbx
+[2022.04.11-13.41.17:369][865]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-13.41.23:618][865]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.11-13.41.23:765][865]LogLinker: Can't find file '/Game/Statics/Roads/Basic_Road/road_dashed'
+[2022.04.11-13.41.23:765][865]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\road\road_dashed.png
+[2022.04.11-13.41.23:768][865]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.23:778][865]LogFbx: Display: Triangulating static mesh road_merge.003
+[2022.04.11-13.41.23:833][865]LogStaticMesh: Building static mesh road_dashed...
+[2022.04.11-13.41.23:854][865]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2022.04.11-13.41.23:868][865]LogStaticMesh: Built static mesh [0.03s] /Game/Statics/Roads/Basic_Road/road_dashed.road_dashed
+[2022.04.11-13.41.35:305][949]LogAssetEditorManager: Opening Asset editor for Material /Game/Statics/Roads/Basic_Road/road_dashed_material.road_dashed_material
+[2022.04.11-13.41.35:338][949]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.36:003][949]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.36:033][949]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.36:036][949]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.36:077][949]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.11-13.41.36:286][952]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.36:615][973]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.41.37:320][  6]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.11-13.41.37:320][  6]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.11-13.41.37:320][  6]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.41.37:320][  6]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.41.41:016][185]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.41:045][186]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.41:273][200]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.41.42:030][235]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.11-13.41.42:030][235]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.11-13.41.42:030][235]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.41.42:030][235]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.41.44:595][354]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.44:605][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.41.44:608][354]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.44:609][354]LogMaterial: Warning: /Engine/Transient.road_dashed_material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-13.41.44:609][354]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.41.44:635][354]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.41.44:638][354]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.41.50:454][594]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.50:472][594]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.50:472][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.41.50:502][594]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.50:745][609]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.51:032][631]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.41.51:906][677]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.04.11-13.41.51:906][677]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2022.04.11-13.41.51:906][677]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2022.04.11-13.41.51:906][677]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.11-13.41.51:907][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.11-13.41.51:907][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.11-13.41.53:745][785]LogMaterialEditor: Applying material road_dashed_material
+[2022.04.11-13.41.54:311][785]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.54:341][785]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.41.54:357][785]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.54:374][785]LogMaterial: Display: Missing cached shader map for material road_dashed_material, compiling. 
+[2022.04.11-13.41.54:466][785]LogUObjectHash: Compacting FUObjectHashTables data took   9.07ms
+[2022.04.11-13.41.54:475][785]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.41.55:200][785]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.11-13.41.55:202][785]TextureStreamingBuild: Display: Compiling optional shaders took 0.735 seconds.
+[2022.04.11-13.41.55:242][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.04.11-13.41.55:909][828]LogSlate: Window 'road_dashed_material' being destroyed
+[2022.04.11-13.41.58:639][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.42.19:419][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_Material6F11E80C471D02E0E206829AF770E95B.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/Assets/BasicRoad_Material.uasset'
+[2022.04.11-13.42.19:634][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_dashed_materialDACD11FA49D3D5C32996BEBB59AFF227.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/Assets/road_dashed_material.uasset'
+[2022.04.11-13.42.19:929][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_dashed_textureB8A696E8413F1FAAFAC307A4EF2AEFB3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/Assets/road_dashed_texture.uasset'
+[2022.04.11-13.42.20:102][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_texture3BDEFBE14AE4629535B600A250D69889.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/Assets/road_texture.uasset'
+[2022.04.11-13.42.21:071][119]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.04.11-13.42.21:101][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.11-13.42.21:132][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.11-13.42.21:166][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.04.11-13.42.21:200][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.04.11-13.42.21:227][119]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.04.11-13.42.21:338][119]SourceControl: rm 'Content/Statics/Roads/Basic_Road/BasicRoad_Material.uasset'
+[2022.04.11-13.42.21:338][119]SourceControl: rm 'Content/Statics/Roads/Basic_Road/road_texture.uasset'
+[2022.04.11-13.42.21:464][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/BasicRoad_Material" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad_Material.uasset" SILENT=true
+[2022.04.11-13.42.21:470][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoad_MaterialA388C7A5424B4F9EA7727AAD365B5445.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/BasicRoad_Material.uasset'
+[2022.04.11-13.42.21:474][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/Basic_Road/BasicRoad" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/BasicRoad.uasset" SILENT=true
+[2022.04.11-13.42.21:484][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/BasicRoadDF48683847D33489F18E1084AA5D7F35.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/BasicRoad.uasset'
+[2022.04.11-13.42.21:489][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Statics/Roads/road_texture" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/road_texture.uasset" SILENT=true
+[2022.04.11-13.42.21:495][119]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_texture734DDB854E519E5AA4BEF4BDC53A8C9A.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/road_texture.uasset'
+[2022.04.11-13.42.54:325][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaTexture" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTexture.uasset" SILENT=true
+[2022.04.11-13.42.54:335][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTexture74B582114443B6DAD4A9EA927F945C19.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTexture.uasset'
+[2022.04.11-13.42.54:539][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaTexture" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTexture.uasset" SILENT=true
+[2022.04.11-13.42.54:545][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTextureBF1CD8EC4985D064CF9A8D9215164EEF.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTexture.uasset'
+[2022.04.11-13.42.54:569][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaTyreMarks" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTyreMarks.uasset" SILENT=true
+[2022.04.11-13.42.54:575][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTyreMarks17B3994C46A915F7921766A51FFD4B53.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTyreMarks.uasset'
+[2022.04.11-13.42.54:758][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaTyreMarks" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTyreMarks.uasset" SILENT=true
+[2022.04.11-13.42.54:766][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTyreMarks1B91418D4097E2256F5AACAF27BE6B77.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTyreMarks.uasset'
+[2022.04.11-13.42.54:801][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaTyreMat" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTyreMat.uasset" SILENT=true
+[2022.04.11-13.42.54:811][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTyreMat13FD7E414BA8B2D41B3DCB9DCDD18AD5.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaTyreMat.uasset'
+[2022.04.11-13.42.54:981][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaTyreMat" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTyreMat.uasset" SILENT=true
+[2022.04.11-13.42.54:988][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTyreMatAE3D98CE493667A8E5607F9ED84FECB3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTyreMat.uasset'
+[2022.04.11-13.42.55:018][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaMesh" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaMesh.uasset" SILENT=true
+[2022.04.11-13.42.55:059][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaMesh3D9C4107475ED22D0F880D8AC3112856.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaMesh.uasset'
+[2022.04.11-13.42.55:410][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaMesh" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaMesh.uasset" SILENT=true
+[2022.04.11-13.42.55:439][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaMesh79539F934211E8B69A7EA8A146EAC05F.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaMesh.uasset'
+[2022.04.11-13.42.55:452][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaFont" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaFont.uasset" SILENT=true
+[2022.04.11-13.42.55:456][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaFontCB6D3D674BAADB136A365BAF05E96F86.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaFont.uasset'
+[2022.04.11-13.42.55:657][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaFont" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaFont.uasset" SILENT=true
+[2022.04.11-13.42.55:663][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaFontE7F3EE17454BE0826039598902B4A3D6.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaFont.uasset'
+[2022.04.11-13.42.55:700][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Assets/FabiaMaterial" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaMaterial.uasset" SILENT=true
+[2022.04.11-13.42.55:740][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaMaterial14C36AD343CBBED91DB31983D32FAC16.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Assets/FabiaMaterial.uasset'
+[2022.04.11-13.42.55:947][858]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaMaterial" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaMaterial.uasset" SILENT=true
+[2022.04.11-13.42.55:984][858]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaMaterial47EFF5FC4FCF3DD72512759217B1A762.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaMaterial.uasset'
+[2022.04.11-13.43.20:078][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_materialE4DFEF3741C79E25BF396A8B470D16B4.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/Assets/directional_material.uasset'
+[2022.04.11-13.43.20:266][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_material56D6A97441BEAD423AA3858A90A95297.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_material.uasset'
+[2022.04.11-13.43.20:302][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lr_texture711301B44EDDFE59533A8DAAA731C747.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/Assets/directional_board_lr_texture.uasset'
+[2022.04.11-13.43.20:501][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_lr_texture1268353740E3F058642321984E0E7BA3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board_lr_texture.uasset'
+[2022.04.11-13.43.20:538][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_textureD157BE0C495B17D2A28BE4B9E65163DC.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/Assets/directional_board_texture.uasset'
+[2022.04.11-13.43.20:754][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_board_texture3C33F7D2471A054AB9EC6AB8A1230290.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_board_texture.uasset'
+[2022.04.11-13.43.20:782][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_lr_materialE411DBCC4DFDA0F2E37580AD24C81157.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/Assets/directional_lr_material.uasset'
+[2022.04.11-13.43.20:982][844]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/directional_lr_materialB9A7114E48343A6A150BE2AEA6B4815E.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Props/DirectionalBoard/directional_lr_material.uasset'
+[2022.04.11-13.43.40:370][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.43.55:187][855]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge.fbx)
+[2022.04.11-13.43.55:197][855]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge.fbx
+[2022.04.11-13.43.55:201][855]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-13.43.57:396][855]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.04.11-13.43.57:418][855]LogLinker: Can't find file '/Game/Statics/Roads/Basic_Road_Merge/road_merge'
+[2022.04.11-13.43.57:418][855]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\road\road_merge.png
+[2022.04.11-13.43.57:421][855]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.43.57:430][855]LogFbx: Display: Triangulating static mesh road_merge
+[2022.04.11-13.43.57:435][855]LogStaticMesh: Building static mesh road_merge...
+[2022.04.11-13.43.57:437][855]LogStaticMesh: Built static mesh [0.00s] /Game/Statics/Roads/Basic_Road_Merge/road_merge.road_merge
+[2022.04.11-13.43.57:518][855]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge_end.fbx)
+[2022.04.11-13.43.57:527][855]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge_end.fbx
+[2022.04.11-13.43.57:532][855]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.11-13.43.57:535][855]LogLinker: Can't find file '/Game/Statics/Roads/Basic_Road_Merge/road_merge_end'
+[2022.04.11-13.43.57:536][855]LogFbxMaterialImport: Warning: Unable to find Texture file E:\Slanecka Driving Simulator\road\road_merge_end.png
+[2022.04.11-13.43.57:538][855]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.43.57:548][855]LogFbx: Display: Triangulating static mesh road_merge.001
+[2022.04.11-13.43.57:561][855]LogStaticMesh: Building static mesh road_merge_end...
+[2022.04.11-13.43.57:570][855]LogStaticMesh: Built static mesh [0.01s] /Game/Statics/Roads/Basic_Road_Merge/road_merge_end.road_merge_end
+[2022.04.11-13.43.57:653][855]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge_end_texture.png)
+[2022.04.11-13.43.57:698][855]LogTexture: Display: Building textures: road_merge_end_texture (AutoDXT, 2048X2048)
+[2022.04.11-13.43.57:920][855]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\Statics\Roads\Basic_Road_Merge\road_merge_texture.png)
+[2022.04.11-13.43.57:958][855]LogTexture: Display: Building textures: road_merge_texture (AutoDXT, 2048X2048)
+[2022.04.11-13.44.02:397][200]LogAssetEditorManager: Opening Asset editor for Material /Game/Statics/Roads/Basic_Road_Merge/road_merge_material.road_merge_material
+[2022.04.11-13.44.02:399][200]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.02:756][200]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.02:768][200]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.02:796][200]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.02:810][200]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.11-13.44.03:038][208]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.03:991][252]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.11-13.44.03:991][252]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.11-13.44.03:991][252]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.44.03:991][252]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.44.06:689][392]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.06:717][393]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.06:969][412]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.07:834][449]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.11-13.44.07:834][449]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.11-13.44.07:835][449]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.44.07:835][449]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.44.14:199][785]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.14:210][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.14:211][785]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.14:213][785]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.14:213][785]LogMaterial: Warning: /Engine/Transient.road_merge_material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-13.44.14:213][785]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.44.14:242][785]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.14:247][785]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.44.19:100][991]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.19:113][991]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.19:116][991]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.19:144][991]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.19:373][  6]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.19:660][ 28]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: Base pass shader: 110 instructions
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.11-13.44.20:564][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.11-13.44.21:056][111]LogMaterialEditor: Applying material road_merge_material
+[2022.04.11-13.44.21:383][111]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.21:417][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.21:425][111]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.21:444][111]LogMaterial: Display: Missing cached shader map for material road_merge_material, compiling. 
+[2022.04.11-13.44.21:490][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.04.11-13.44.21:501][111]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.44.22:242][111]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.11-13.44.22:243][111]TextureStreamingBuild: Display: Compiling optional shaders took 0.752 seconds.
+[2022.04.11-13.44.22:279][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.04.11-13.44.22:842][142]LogSlate: Window 'road_merge_material' being destroyed
+[2022.04.11-13.44.25:658][322]LogAssetEditorManager: Opening Asset editor for Material /Game/Statics/Roads/Basic_Road_Merge/road_merge_end_material.road_merge_end_material
+[2022.04.11-13.44.25:661][322]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.26:013][322]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.26:022][322]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.26:024][322]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.26:066][322]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2022.04.11-13.44.26:262][327]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.26:552][349]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.27:472][383]MaterialEditorStats: Base pass shader: 109 instructions
+[2022.04.11-13.44.27:472][383]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2022.04.11-13.44.27:472][383]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.44.27:472][383]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.44.29:881][516]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.29:917][517]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.30:140][533]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.30:966][560]MaterialEditorStats: Base pass shader: 107 instructions
+[2022.04.11-13.44.30:966][560]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2022.04.11-13.44.30:966][560]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2022.04.11-13.44.30:966][560]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.11-13.44.33:832][708]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.33:842][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.33:845][708]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.33:846][708]LogMaterial: Warning: /Engine/Transient.road_merge_end_material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.04.11-13.44.33:846][708]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.44.33:877][708]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.33:881][708]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2022.04.11-13.44.37:172][861]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.37:190][861]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2022.04.11-13.44.37:204][861]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.37:220][861]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.37:485][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.37:782][901]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.44.38:581][944]LogMaterialEditor: Applying material road_merge_end_material
+[2022.04.11-13.44.38:920][944]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.38:964][944]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.44.38:964][944]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.38:979][944]LogMaterial: Display: Missing cached shader map for material road_merge_end_material, compiling. 
+[2022.04.11-13.44.39:028][944]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.04.11-13.44.39:037][944]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.44.39:801][944]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.11-13.44.39:802][944]TextureStreamingBuild: Display: Compiling optional shaders took 0.774 seconds.
+[2022.04.11-13.44.39:841][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2022.04.11-13.44.40:603][  0]LogSlate: Window 'road_merge_end_material' being destroyed
+[2022.04.11-13.44.54:174][ 67]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge_end_material969837634006BADA928440ACBBD48795.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/Assets/road_merge_end_material.uasset'
+[2022.04.11-13.44.54:489][ 67]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge_end_texture0EAF4B18420E5113C371F59133CAC333.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/Assets/road_merge_end_texture.uasset'
+[2022.04.11-13.44.54:675][ 67]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge_material6D07C1FA4D9EDB40CF7A45B295EA0C33.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/Assets/road_merge_material.uasset'
+[2022.04.11-13.44.55:007][ 67]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge_textureE4EC19AC4B05269F37290ABDDC77D7A2.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/Assets/road_merge_texture.uasset'
+[2022.04.11-13.44.55:822][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.11-13.44.55:848][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.04.11-13.44.55:875][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2022.04.11-13.44.55:898][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.04.11-13.44.55:934][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.04.11-13.44.55:961][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.04.11-13.45.02:380][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.45.02:466][816]MapCheck: New page: Map Check
+[2022.04.11-13.45.02:567][816]Cmd: MAP REBUILD ALLVISIBLE
+[2022.04.11-13.45.02:567][816]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2022.04.11-13.45.02:695][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.04.11-13.45.02:721][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:726][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:733][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:740][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:774][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. Is special engine material.
+[2022.04.11-13.45.02:803][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:811][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:817][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.02:823][816]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2022.04.11-13.45.04:139][816]LogShaderCompilers: Display: Shaders left to compile 40
+[2022.04.11-13.45.04:139][816]LogShaderCompilers: Display: Shaders left to compile 30
+[2022.04.11-13.45.04:139][816]LogShaderCompilers: Display: Shaders left to compile 20
+[2022.04.11-13.45.04:139][816]LogShaderCompilers: Display: Shaders left to compile 10
+[2022.04.11-13.45.04:139][816]TextureStreamingBuild: Display: Compiling optional shaders took 1.422 seconds.
+[2022.04.11-13.45.04:148][816]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2022.04.11-13.45.04:172][816]TextureStreamingBuild: Display: Build Texture Streaming took 0.024 seconds.
+[2022.04.11-13.45.04:203][816]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.11-13.45.04:203][816]LightingResults: New page: Lighting Build - 11 Apr 2022 17:45:04
+[2022.04.11-13.45.04:210][816]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2022.04.11-13.45.04:215][816]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2022.04.11-13.45.04:215][816]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2022.04.11-13.45.04:216][816]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2022.04.11-13.45.04:216][816]LogSwarmInterface: [TryOpenConnection] Local Process ID is 10432
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2022.04.11-13.45.08:778][816]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2022.04.11-13.45.08:860][816]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2022.04.11-13.45.08:860][816]MapCheck: New page: Minimal_Default - 11 Apr 2022 17:45:08
+[2022.04.11-13.45.08:860][816]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2022.04.11-13.45.08:861][816]MapCheck: Warning: fabia_sedan__5__PhysicsAsset_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2022.04.11-13.45.08:861][816]MapCheck: Warning: fabia_sedan__5__PhysicsAsset_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2022.04.11-13.45.08:861][816]MapCheck: Map check complete: 1 Error(s), 2 Warning(s), took 0,646ms to complete.
+[2022.04.11-13.45.08:883][816]LogEditorBuildUtils: Build time 0:06
+[2022.04.11-13.45.08:934][817]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicRoad_Material, compiling. 
+[2022.04.11-13.45.08:942][817]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicRoad_Material, compiling. 
+[2022.04.11-13.45.09:407][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.04.11-13.45.11:130][883]Job is a success!
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.028s
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:      BrickData 1135x5x5 = 1.1Mb
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:      Bricks at Level
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:          0: 0.4% covering 100.0% of volume
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:          1: 7.0% covering 25.0% of volume
+[2022.04.11-13.45.11:265][884]LogVolumetricLightmapImport:          2: 92.5% covering 5.1% of volume
+[2022.04.11-13.45.11:379][884]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 512X256)
+[2022.04.11-13.45.11:379][884]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2022.04.11-13.45.11:379][884]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2022.04.11-13.45.11:379][884]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 64X32)
+[2022.04.11-13.45.11:379][884]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2022.04.11-13.45.11:380][884]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2022.04.11-13.45.11:380][884]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2022.04.11-13.45.11:380][884]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2022.04.11-13.45.11:424][884]Lightmass on DESKTOP-2ASON05: 1.66 sec total, 82 ms importing, 5 ms setup, 757 ms photons, 770 ms processing, 0 ms extra exporting [22/22 mappings]. Threads: 7.98 sec total, 1.65 sec processing.
+[2022.04.11-13.45.11:439][884]LogStaticLightingSystem: Minimal_Default_BuiltData storing lightmap data for 22 meshes in 2 LightmapResourceClusters (11.0 Meshes per cluster).
+[2022.04.11-13.45.11:472][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.04.11-13.45.11:487][884]LogStaticLightingSystem: Illumination: 7.22 sec (73 ms encoding lightmaps, 22 ms encoding shadowmaps)
+[2022.04.11-13.45.11:487][884]LogStaticLightingSystem: Lightmap texture memory:  0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 4 textures
+[2022.04.11-13.45.11:487][884]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2022.04.11-13.45.11:782][884]DumpUnbuiltLightIteractions
+[2022.04.11-13.45.11:782][884]Lights with unbuilt interactions: 0
+[2022.04.11-13.45.11:782][884]
+[2022.04.11-13.45.11:782][884]Primitives with unbuilt interactions: 0
+[2022.04.11-13.45.11:861][885]Cmd: MAP CHECK NOTIFYRESULTS
+[2022.04.11-13.45.11:862][885]MapCheck: New page: Minimal_Default - 11 Apr 2022 17:45:11
+[2022.04.11-13.45.11:862][885]MapCheck: Warning: fabia_sedan__5__PhysicsAsset_5 SkeletalMeshActor 'No_SkeletalMesh' casts shadow but has no PhysicsAsset assigned.  The shadow will be low res and inefficient 
+[2022.04.11-13.45.11:862][885]MapCheck: Warning: fabia_sedan__5__PhysicsAsset_5 Skeletal mesh actor has NULL SkeletalMesh property 
+[2022.04.11-13.45.11:862][885]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 0,478ms to complete.
+[2022.04.11-13.45.14:163][947]LogSlate: Window 'Message Log' being destroyed
+[2022.04.11-13.45.14:206][947]LogSlate: Window 'Message Log' being destroyed
+[2022.04.11-13.45.18:941][277]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.45.20:151][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.04.11-13.45.20:157][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.45.20:354][325]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.45.20:401][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.11-13.45.20:572][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default92BEF67E41FF830DA70FE48A8FEC0D17.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.11-13.45.20:590][325]LogFileHelpers: Saving map 'Minimal_Default' took 0.219
+[2022.04.11-13.45.20:629][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default_BuiltData0DFC24B04C4DA6FAB3A440A33F992252.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.04.11-13.45.20:676][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaBP" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaBP.uasset" SILENT=true
+[2022.04.11-13.45.20:715][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaBPB1F6FD484DBD8E65D8A9F7A0805D3438.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaBP.uasset'
+[2022.04.11-13.45.20:722][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaTMark" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTMark.uasset" SILENT=true
+[2022.04.11-13.45.20:731][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaTMarkF0316A244BB666DFD677E8AE0EEBB4F6.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaTMark.uasset'
+[2022.04.11-13.45.20:784][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/FabiaPhys" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaPhys.uasset" SILENT=true
+[2022.04.11-13.45.20:854][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/FabiaPhysF8B71923414C4D5EB30207B4901DE67B.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/FabiaPhys.uasset'
+[2022.04.11-13.45.20:860][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fabia/Widget_FabiaSpeed" FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Widget_FabiaSpeed.uasset" SILENT=true
+[2022.04.11-13.45.20:882][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Widget_FabiaSpeed587631A24AF96D9A828213ADD293B529.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Fabia/Widget_FabiaSpeed.uasset'
+[2022.04.11-13.45.20:931][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_dashed2D0DF5224710D0EE33C82CAFD195911C.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road/road_dashed.uasset'
+[2022.04.11-13.45.21:166][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge9AE5F55643600F6DEBFB95BBBC73E6B1.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/road_merge.uasset'
+[2022.04.11-13.45.21:390][325]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/road_merge_end2B704C56482BB996B1FE55BC0256EAC3.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Statics/Roads/Basic_Road_Merge/road_merge_end.uasset'
+[2022.04.11-13.46.22:206][930]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.11-13.46.22:206][930]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.11-13.46.22:215][930]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.11-13.46.22:216][930]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.04.11-13.46.22:226][930]LogPlayLevel: [PlayLevel] Compiling FabiaTMark before play...
+[2022.04.11-13.46.22:237][930]LogPlayLevel: [PlayLevel] Compiling FabiaBP before play...
+[2022.04.11-13.46.22:369][930]LogPlayLevel: [PlayLevel] Compiling Widget_FabiaSpeed before play...
+[2022.04.11-13.46.22:425][930]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2022.04.11-13.46.22:425][930]LogPlayLevel: PlayLevel: Blueprint regeneration took 209 ms (3 blueprints)
+[2022.04.11-13.46.22:425][930]PIE: New page: PIE session: Minimal_Default (11 Apr 2022 17:46:22)
+[2022.04.11-13.46.22:425][930]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.11-13.46.22:431][930]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005135s)
+[2022.04.11-13.46.22:431][930]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.11-13.46.22:431][930]LogPlayLevel: PIE: World Init took: (0.000572s)
+[2022.04.11-13.46.22:431][930]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.005833s)
+[2022.04.11-13.46.22:457][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.04.11-13.46.22:565][930]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.11-13.46.22:598][930]LogInit: FAudioDevice initialized.
+[2022.04.11-13.46.22:625][930]LogLoad: Game class is 'GameModeBase'
+[2022.04.11-13.46.22:627][930]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.11-15.46.22
+[2022.04.11-13.46.22:627][930]LogWorld: Bringing up level for play took: 0.002383
+[2022.04.11-13.46.22:640][930]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,237
+[2022.04.11-13.46.22:640][930]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.11-13.46.31:509][992]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.11-13.46.31:510][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-13.46.31:535][992]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.11-13.46.31:535][992]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.11-13.46.31:564][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.11-13.46.31:568][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2022.04.11-13.46.31:616][996]LogPlayLevel: Display: Destroying online subsystem :Context_108
+[2022.04.11-13.46.33:955][206]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.46.34:885][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.04.11-13.46.34:891][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.46.34:944][246]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.11-13.46.34:977][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.04.11-13.46.35:145][246]LogSavePackage: Moving '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Minimal_Default03944FA549902D3ECDF7428989CAF3A1.tmp' to '../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.04.11-13.46.35:163][246]LogFileHelpers: Saving map 'Minimal_Default' took 0.214
