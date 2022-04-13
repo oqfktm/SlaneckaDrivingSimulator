@@ -5,12 +5,12 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "SteamVR",
-			"Enabled": false
-		},
-		{
 			"Name": "ApexDestruction",
 			"Enabled": true
+		},
+		{
+			"Name": "SteamVR",
+			"Enabled": false
 		}
 	]
 }
