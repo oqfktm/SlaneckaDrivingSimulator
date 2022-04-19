@@ -1,0 +1,891 @@
+﻿Log file open, 04/18/22 19:39:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SlaneckaDrivingSim
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.422199
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.32.0
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8700K CPU @ 3.70GHz, GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=F_k_t_M -epicuserid=64bc145ddd8b437d870ac8cfe691e6f8 -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/UnrealEngine/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:126][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.04.18-17.39.41:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.04.18-17.39.41:127][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:127][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.18-17.39.41:131][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.18-17.39.41:132][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.18-17.39.41:132][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.18-17.39.41:132][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.04.18-17.39.41:138][  0]LogHAL: Display: Platform has ~ 16 GB [17114173440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2022.04.18-17.39.41:139][  0]LogInit: Going up to parent DeviceProfile []
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Scalability.ini]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.04.18-17.39.41:139][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.04.18-17.39.41:140][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.04.18-17.39.41:140][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.04.18-17.39.41:140][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Config/Windows/Engine.ini]
+[2022.04.18-17.39.41:140][  0]LogInit: Computer: DESKTOP-2ASON05
+[2022.04.18-17.39.41:140][  0]LogInit: User: Pc
+[2022.04.18-17.39.41:140][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.04.18-17.39.41:140][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.04.18-17.39.41:140][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.04.18-17.39.41:140][  0]LogMemory: Platform Memory Stats for Windows
+[2022.04.18-17.39.41:140][  0]LogMemory: Process Physical Memory: 104.05 MB used, 104.06 MB peak
+[2022.04.18-17.39.41:140][  0]LogMemory: Process Virtual Memory: 103.33 MB used, 103.33 MB peak
+[2022.04.18-17.39.41:140][  0]LogMemory: Physical Memory: 6142.18 MB used,  10179.16 MB free, 16321.35 MB total
+[2022.04.18-17.39.41:140][  0]LogMemory: Virtual Memory: 4690.36 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2022.04.18-17.39.41:174][  0]LogInit: Using OS detected language (en-US).
+[2022.04.18-17.39.41:174][  0]LogInit: Using OS detected locale (en-150).
+[2022.04.18-17.39.41:175][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.04.18-17.39.41:295][  0]LogInit: Setting process to per monitor DPI aware
+[2022.04.18-17.39.41:329][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.04.18-17.39.41:329][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.04.18-17.39.41:532][  0]LogD3D11RHI: D3D11 adapters:
+[2022.04.18-17.39.41:606][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2022.04.18-17.39.41:606][  0]LogD3D11RHI:       8088/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.04.18-17.39.41:608][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.04.18-17.39.41:608][  0]LogD3D11RHI:       0/0/8160 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.04.18-17.39.41:608][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.04.18-17.39.41:613][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.04.18-17.39.41:613][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.04.18-17.39.41:613][  0]LogWindows: EnumDisplayDevices:
+[2022.04.18-17.39.41:613][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.04.18-17.39.41:614][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2022.04.18-17.39.41:614][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.04.18-17.39.41:614][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.04.18-17.39.41:614][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.04.18-17.39.41:614][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.04.18-17.39.41:614][  0]LogD3D11RHI:   Driver Version: 512.15 (internal:30.0.15.1215, unified:512.15)
+[2022.04.18-17.39.41:614][  0]LogD3D11RHI:      Driver Date: 3-17-2022
+[2022.04.18-17.39.41:614][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2022.04.18-17.39.41:666][  0]LogD3D11RHI: Async texture creation enabled
+[2022.04.18-17.39.41:669][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2022.04.18-17.39.41:669][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2022.04.18-17.39.41:669][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2022.04.18-17.39.41:677][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.04.18-17.39.41:910][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2022.04.18-17.39.41:920][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2022.04.18-17.39.41:935][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2022.04.18-17.39.41:945][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2022.04.18-17.39.41:956][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2022.04.18-17.39.41:966][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2022.04.18-17.39.41:976][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2022.04.18-17.39.41:986][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2022.04.18-17.39.41:991][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2022.04.18-17.39.42:050][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2022.04.18-17.39.42:051][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2022.04.18-17.39.42:094][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2022.04.18-17.39.42:094][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2022.04.18-17.39.42:114][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2022.04.18-17.39.42:114][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2022.04.18-17.39.42:124][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2022.04.18-17.39.42:134][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2022.04.18-17.39.42:144][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2022.04.18-17.39.42:157][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2022.04.18-17.39.42:192][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2022.04.18-17.39.42:192][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2022.04.18-17.39.42:192][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.04.18-17.39.42:198][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.04.18-17.39.42:229][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Intermediate/Shaders/WorkingDirectory/2976/).
+[2022.04.18-17.39.42:229][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Pc/AppData/Local/Temp/UnrealShaderWorkingDir/BCF3B8A542610DE6500543907D021E96/'.
+[2022.04.18-17.39.42:231][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.04.18-17.39.42:232][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.04.18-17.39.42:232][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.04.18-17.39.42:685][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: Loaded boot cache 0.04s 71MB C:/Users/Pc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Pc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.18-17.39.42:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.04.18-17.39.42:732][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.04.18-17.39.42:732][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.04.18-17.39.42:732][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.04.18-17.39.42:744][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Pc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.04.18-17.39.42:744][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.04.18-17.39.42:744][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.04.18-17.39.42:761][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2022.04.18-17.39.42:762][  0]LogSlate: Using FreeType 2.6.0
+[2022.04.18-17.39.42:763][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.04.18-17.39.42:845][  0]LogAssetRegistry: FAssetRegistry took 0.0307 seconds to start up
+[2022.04.18-17.39.43:114][  0]LogInit: Selected Device Profile: [Windows]
+[2022.04.18-17.39.43:216][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.04.18-17.39.43:216][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.04.18-17.39.43:216][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.04.18-17.39.43:216][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.04.18-17.39.43:216][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.04.18-17.39.43:228][  0]LogNetVersion: SlaneckaDrivingSim 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 4187192398)
+[2022.04.18-17.39.43:531][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.021558 seconds
+[2022.04.18-17.39.43:536][  0]LogUObjectArray: 41958 objects as part of root set at end of initial load.
+[2022.04.18-17.39.43:536][  0]LogUObjectAllocator: 7284248 out of 0 bytes used by permanent object pool.
+[2022.04.18-17.39.43:536][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.04.18-17.39.44:275][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.04.18-17.39.44:287][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.04.18-17.39.44:399][  0]SourceControl: Source control is disabled
+[2022.04.18-17.39.44:770][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.04.18-17.39.45:181][  0]LogOcInput: OculusInput pre-init called
+[2022.04.18-17.39.45:867][  0]LogEngine: Initializing Engine...
+[2022.04.18-17.39.45:868][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.04.18-17.39.46:023][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.04.18-17.39.46:030][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.04.18-17.39.46:167][  0]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.18-17.39.46:194][  0]LogInit: FAudioDevice initialized.
+[2022.04.18-17.39.46:194][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.04.18-17.39.46:255][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/Pc/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2022.04.18-17.39.46:255][  0]LogInit: Texture streaming: Enabled
+[2022.04.18-17.39.46:266][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.04.18-17.39.46:280][  0]LogInit: Transaction tracking system initialized
+[2022.04.18-17.39.46:293][  0]BlueprintLog: New page: Editor Load
+[2022.04.18-17.39.46:343][  0]LocalizationService: Localization service is disabled
+[2022.04.18-17.39.46:572][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/' took 0.01s
+[2022.04.18-17.39.46:572][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2022.04.18-17.39.46:572][  0]LogCook: Display: Mobile HDR setting 1
+[2022.04.18-17.39.46:699][  0]Cmd: MAP LOAD FILE="../../../../../Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.18-17.39.46:700][  0]LightingResults: New page: Lighting Build
+[2022.04.18-17.39.46:701][  0]MapCheck: New page: Map Check
+[2022.04.18-17.39.46:701][  0]LightingResults: New page: Lighting Build
+[2022.04.18-17.39.46:723][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.04.18-17.39.47:079][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.18-17.39.47:091][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.18-17.39.47:116][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.04.18-17.39.47:116][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.18-17.39.47:117][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,102ms to complete.
+[2022.04.18-17.39.47:117][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.418
+[2022.04.18-17.39.47:213][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.39.47:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.39.47:226][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.39.47:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.39.47:236][  0]LogCollectionManager: Loaded 0 collections in 0.000847 seconds
+[2022.04.18-17.39.47:272][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Saved/Collections/' took 0.01s
+[2022.04.18-17.39.47:272][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Developers/Pc/Collections/' took 0.01s
+[2022.04.18-17.39.47:272][  0]LogFileCache: Scanning file cache for directory 'D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Content/Collections/' took 0.01s
+[2022.04.18-17.39.47:272][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2022.04.18-17.39.47:279][  0]LogContentBrowser: Native class hierarchy populated in 0.0065 seconds. Added 2738 classes and 659 folders.
+[2022.04.18-17.39.47:283][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.18-17.39.47:284][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:285][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:286][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:287][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:288][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:289][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:290][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:291][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:292][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:293][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:295][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:297][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:298][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:300][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2022.04.18-17.39.47:338][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.04.18-17.39.47:342][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.04.18-17.39.47:405][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.04.18-17.39.47:406][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.04.18-17.39.47:410][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.04.18-17.39.47:461][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2022.04.18-17.39.47:471][  0]LogRenderer: Reallocating scene render targets to support 1264x1024 Format 10 NumSamples 1 (Frame:1).
+[2022.04.18-17.39.47:498][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.18-17.39.47:557][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.04.18-17.39.47:558][  0]LogLoad: (Engine Initialization) Total time: 9.08 seconds
+[2022.04.18-17.39.47:558][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.04.18-17.39.47:588][  0]LogAssetRegistry: Asset discovery search completed in 4.7650 seconds
+[2022.04.18-17.39.47:589][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2022.04.18-17.39.47:589][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000034 seconds (updated 0 objects)
+[2022.04.18-17.39.47:591][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2022.04.18-17.39.48:583][110]LogSlate: Took 0.000199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.18-17.40.08:493][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.40.08:612][747]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/Fabia/FabiaAnim.FabiaAnim
+[2022.04.18-17.40.08:631][747]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.04.18-17.40.08:797][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.18-17.40.08:799][747]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.04.18-17.40.08:974][747]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2022.04.18-17.40.09:593][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.04.18-17.40.09:762][747]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/Fabia/Assets/FabiaMesh.FabiaMesh
+[2022.04.18-17.40.09:766][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.04.18-17.40.09:835][747]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2022.04.18-17.40.09:978][747]LogAssetEditorManager: Opening Asset editor for PhysicsAsset /Game/Fabia/FabiaPhys.FabiaPhys
+[2022.04.18-17.40.09:982][747]LogBlueprintActionDatabase: Requesting refresh due to module change: PhysicsAssetEditor (loaded)
+[2022.04.18-17.40.09:982][747]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2022.04.18-17.40.09:990][747]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.04.18-17.40.10:213][747]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Fabia/FabiaBP.FabiaBP
+[2022.04.18-17.40.10:712][747]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.04.18-17.40.10:784][748]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.04.18-17.40.17:716][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.40.18:379][339]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.18-17.40.18:388][339]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.40.18:388][339]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-17.40.18:389][339]PIE: New page: PIE session: Minimal_Default (18 Apr 2022 21:40:18)
+[2022.04.18-17.40.18:401][339]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.18-17.40.18:413][339]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012272s)
+[2022.04.18-17.40.18:414][339]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.18-17.40.18:414][339]LogPlayLevel: PIE: World Init took: (0.000500s)
+[2022.04.18-17.40.18:414][339]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013000s)
+[2022.04.18-17.40.18:458][339]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.04.18-17.40.18:568][339]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.18-17.40.18:578][339]LogInit: FAudioDevice initialized.
+[2022.04.18-17.40.18:619][339]LogLoad: Game class is 'GameMode1_C'
+[2022.04.18-17.40.18:623][339]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.18-19.40.18
+[2022.04.18-17.40.18:623][339]LogWorld: Bringing up level for play took: 0.003435
+[2022.04.18-17.40.18:636][339]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2022.04.18-17.40.18:637][339]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2022.04.18-17.40.18:638][339]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.04.18-17.40.18:639][339]LogSlate: Warning: Legacy localized fallback font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' was requested. Font: '', Character: '0 (U+0030)'
+Legacy localized fallback fonts were deprecated in 4.22 and will be removed in a future version!
+Please update your composite fonts to use localized sub-font families: https://docs.unrealengine.com/en-US/Engine/UMG/UserGuide/Fonts/Overview
+[2022.04.18-17.40.18:640][339]LogSlate: Took 0.001101 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.04.18-17.40.18:641][339]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,748
+[2022.04.18-17.40.18:641][339]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.41.12:735][803]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.41.12:735][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.41.12:772][803]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-17.41.12:772][803]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.41.12:808][803]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.41.12:843][803]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2022.04.18-17.41.12:859][804]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.04.18-17.42.10:552][878]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.42.19:812][372]LogEditorFactories: Performing atomic reimport of [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx]
+[2022.04.18-17.42.19:837][372]LogFbx: Loading FBX Scene from D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx
+[2022.04.18-17.42.19:841][372]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-17.42.19:841][372]LogEditorFactories: Warning: -- import failed
+[2022.04.18-17.42.19:843][372]FBXImport: Warning: No FBX mesh matches the Unreal mesh 'FabiaMesh'. 
+[2022.04.18-17.42.32:501][194]LogEditorFactories: Performing atomic reimport of [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx]
+[2022.04.18-17.42.32:602][194]LogFbx: Loading FBX Scene from D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx
+[2022.04.18-17.42.32:606][194]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-17.42.32:607][194]LogEditorFactories: Warning: -- import failed
+[2022.04.18-17.42.32:608][194]FBXImport: Warning: No FBX mesh matches the Unreal mesh 'FabiaMesh'. 
+[2022.04.18-17.42.37:403][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.04.18-17.42.52:292][536]LogSlate: Window 'Delete Assets' being destroyed
+[2022.04.18-17.42.58:976][ 38]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx)
+[2022.04.18-17.42.58:985][ 38]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx
+[2022.04.18-17.42.58:989][ 38]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-17.42.58:991][ 38]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2022.04.18-17.43.03:567][ 38]LogSlate: Window 'Message' being destroyed
+[2022.04.18-17.43.03:570][ 38]LogAssetTools: Warning: Failed to import 'D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx'. Failed to create asset '/Game/Fabia/fabia_sedan'.
+Please see Output Log for details.
+[2022.04.18-17.43.10:679][500]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.43.10:695][500]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.43.18:390][687]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx)
+[2022.04.18-17.43.18:399][687]LogFbx: Loading FBX Scene from D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx
+[2022.04.18-17.43.18:404][687]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-17.43.18:408][687]FBXImport: Warning: Can't detect import type. No mesh is found or animation track. 
+[2022.04.18-17.44.01:192][687]LogSlate: Window 'Message' being destroyed
+[2022.04.18-17.44.01:197][687]LogAssetTools: Warning: Failed to import 'D:\Desktop\Githubdesktop\SlaneckaDrivingSimulator\Assets\fabia_sedan.fbx'. Failed to create asset '/Game/Fabia/fabia_sedan'.
+Please see Output Log for details.
+[2022.04.18-17.44.02:639][806]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.44.02:657][806]LogSlate: Window 'Message Log' being destroyed
+[2022.04.18-17.44.04:149][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.44.04:149][933]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.18-17.44.04:160][933]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.04:160][933]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-17.44.04:160][933]PIE: New page: PIE session: Minimal_Default (18 Apr 2022 21:44:04)
+[2022.04.18-17.44.04:160][933]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.18-17.44.04:172][933]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011838s)
+[2022.04.18-17.44.04:173][933]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.18-17.44.04:173][933]LogPlayLevel: PIE: World Init took: (0.000493s)
+[2022.04.18-17.44.04:173][933]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012436s)
+[2022.04.18-17.44.04:201][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.04.18-17.44.04:316][933]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.18-17.44.04:331][933]LogInit: FAudioDevice initialized.
+[2022.04.18-17.44.04:356][933]LogLoad: Game class is 'GameMode1_C'
+[2022.04.18-17.44.04:360][933]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.18-19.44.04
+[2022.04.18-17.44.04:360][933]LogWorld: Bringing up level for play took: 0.003323
+[2022.04.18-17.44.04:372][933]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,479
+[2022.04.18-17.44.04:372][933]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.28:386][803]Set new viewmode: Unlit
+[2022.04.18-17.44.29:336][917]Set new viewmode: Lit
+[2022.04.18-17.44.30:253][ 27]Set new viewmode: Wireframe
+[2022.04.18-17.44.32:745][326]Set new viewmode: Wireframe
+[2022.04.18-17.44.33:512][418]Set new viewmode: Unlit
+[2022.04.18-17.44.34:013][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.34:013][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.44.34:040][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-17.44.34:040][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.34:071][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.44.34:076][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2022.04.18-17.44.34:116][481]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.04.18-17.44.36:200][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.44.36:307][727]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.18-17.44.36:316][727]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.36:316][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-17.44.36:317][727]PIE: New page: PIE session: Minimal_Default (18 Apr 2022 21:44:36)
+[2022.04.18-17.44.36:317][727]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.18-17.44.36:329][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012109s)
+[2022.04.18-17.44.36:329][727]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.18-17.44.36:329][727]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2022.04.18-17.44.36:329][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.012715s)
+[2022.04.18-17.44.36:359][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.18-17.44.36:467][727]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.18-17.44.36:477][727]LogInit: FAudioDevice initialized.
+[2022.04.18-17.44.36:506][727]LogLoad: Game class is 'GameMode1_C'
+[2022.04.18-17.44.36:509][727]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.18-19.44.36
+[2022.04.18-17.44.36:510][727]LogWorld: Bringing up level for play took: 0.003196
+[2022.04.18-17.44.36:522][727]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,629
+[2022.04.18-17.44.36:522][727]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.37:487][795]Set new viewmode: Lit
+[2022.04.18-17.44.38:587][927]Set new viewmode: Unlit
+[2022.04.18-17.44.42:405][385]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.42:406][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.44.42:436][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.18-17.44.42:436][385]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.44.42:468][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.18-17.44.42:472][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.04.18-17.44.42:512][388]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.04.18-17.44.43:886][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.18-17.44.47:585][620]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (46.379 sec). This should never happen. Something is wrong with the timer delegate!
+[2022.04.18-17.45.50:659][412]LogEditorFactories: Performing atomic reimport of [D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx]
+[2022.04.18-17.45.50:758][412]LogFbx: Loading FBX Scene from D:/Desktop/Githubdesktop/SlaneckaDrivingSimulator/Assets/fabia_sedan.fbx
+[2022.04.18-17.45.50:771][412]LogFbx: FBX Scene Loaded Succesfully
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [body] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 458938288.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Plane.001) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [body]
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [FL] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Cylinder) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] FL (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [FL]
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [FR] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Cylinder.008) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] FR (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [FR]
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [RL] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Cylinder.009) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] RL (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [RL]
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [RR] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Cylinder.010) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] RR (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [RR]
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node START [body] 
+[2022.04.18-17.45.50:771][412]LogFbx: 	Total Deformer Count 458938288.
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:771][412]LogFbx: =================================================
+[2022.04.18-17.45.50:771][412]LogFbx: 	Attribute (Plane.001) Type (4).
+[2022.04.18-17.45.50:771][412]LogFbx: 		[Node Attribute Child 1] body (Type Mesh).
+[2022.04.18-17.45.50:771][412]LogFbx: Dumping Node END [body]
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node START [FL] 
+[2022.04.18-17.45.50:772][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: 	Attribute (Cylinder) Type (4).
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node Attribute Child 1] FL (Type Mesh).
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node END [FL]
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node START [FR] 
+[2022.04.18-17.45.50:772][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: 	Attribute (Cylinder.008) Type (4).
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node Attribute Child 1] FR (Type Mesh).
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node END [FR]
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node START [RL] 
+[2022.04.18-17.45.50:772][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: 	Attribute (Cylinder.009) Type (4).
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node Attribute Child 1] RL (Type Mesh).
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node END [RL]
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node START [RR] 
+[2022.04.18-17.45.50:772][412]LogFbx: 	Total Deformer Count 757652920.
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node 1] Armature (Type Skin).
+[2022.04.18-17.45.50:772][412]LogFbx: =================================================
+[2022.04.18-17.45.50:772][412]LogFbx: 	Attribute (Cylinder.010) Type (4).
+[2022.04.18-17.45.50:772][412]LogFbx: 		[Node Attribute Child 1] RR (Type Mesh).
+[2022.04.18-17.45.50:772][412]LogFbx: Dumping Node END [RR]
+[2022.04.18-17.45.50:772][412]LogFbx: Valid bind pose for Pose (Plane.001) - body
+[2022.04.18-17.45.50:772][412]LogFbx: Valid bind pose for Pose (Cylinder) - body
+[2022.04.18-17.45.50:772][412]LogFbx: Valid bind pose for Pose (Cylinder.008) - body
+[2022.04.18-17.45.50:772][412]LogFbx: Valid bind pose for Pose (Cylinder.009) - body
+[2022.04.18-17.45.50:772][412]LogFbx: Valid bind pose for Pose (Cylinder.010) - body
+[2022.04.18-17.45.50:790][412]LogFbx: Triangulating skeletal mesh body
+[2022.04.18-17.45.50:965][412]LogFbx: Triangulating skeletal mesh FL
+[2022.04.18-17.45.50:978][412]LogFbx: Triangulating skeletal mesh FR
+[2022.04.18-17.45.50:990][412]LogFbx: Triangulating skeletal mesh RL
+[2022.04.18-17.45.51:004][412]LogFbx: Triangulating skeletal mesh RR
+[2022.04.18-17.45.51:037][412]LogFbx: Warning: Bones digested - 5  Depth of hierarchy - 2
+[2022.04.18-17.45.51:336][412]LogSkeletalMesh: Section 0: 23613 vertices, 5 active bones
+[2022.04.18-17.45.51:336][412]LogSkeletalMesh: Section 1: 90 vertices, 1 active bones
+[2022.04.18-17.45.51:336][412]LogSkeletalMesh: Section 2: 72 vertices, 1 active bones
+[2022.04.18-17.45.51:336][412]LogSkeletalMesh: Section 3: 110 vertices, 1 active bones
+[2022.04.18-17.45.51:336][412]LogSkeletalMesh: Section 4: 106 vertices, 1 active bones
+[2022.04.18-17.45.51:344][412]LogSkeletalMesh: Section 0: Material=0, 11944 triangles
+[2022.04.18-17.45.51:344][412]LogSkeletalMesh: Section 1: Material=1, 32 triangles
+[2022.04.18-17.45.51:344][412]LogSkeletalMesh: Section 2: Material=2, 24 triangles
+[2022.04.18-17.45.51:344][412]LogSkeletalMesh: Section 3: Material=3, 50 triangles
+[2022.04.18-17.45.51:345][412]LogSkeletalMesh: Section 4: Material=4, 38 triangles
+[2022.04.18-17.45.51:346][412]LogSkeletalMesh: Building Skeletal Mesh FabiaMesh...
+[2022.04.18-17.45.51:360][412]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Fabia/Assets/FabiaMesh.FabiaMesh
+[2022.04.18-17.45.56:876][412]LogSlate: Window 'Message' being destroyed
+[2022.04.18-17.46.02:036][412]LogSlate: Window 'Message' being destroyed
+[2022.04.18-17.46.02:043][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:043][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:043][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:043][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:043][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.FabiaBP_2.VehicleMesh'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_7:PersistentLevel.FabiaBP_C_0.VehicleMesh'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.02:044][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2022.04.18-17.46.02:044][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2022.04.18-17.46.02:044][412]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.04.18-17.46.02:044][412]LogEditorFactories: -- imported successfully
+[2022.04.18-17.46.02:048][412]LogSkeletalMesh: Building Skeletal Mesh FabiaMesh...
+[2022.04.18-17.46.02:062][412]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/Fabia/Assets/FabiaMesh.FabiaMesh
+[2022.04.18-17.46.18:499][568]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2022.04.18-17.46.19:475][626]SourceControl: fatal: /Script: '/Script' is outside repository
+[2022.04.18-17.46.19:916][676]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.46.24:798][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.46.37:049][139]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.46.58:927][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2022.04.18-17.46.59:738][689]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.18-17.46.59:748][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.46.59:748][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.18-17.46.59:748][689]PIE: New page: PIE session: Minimal_Default (18 Apr 2022 21:46:59)
+[2022.04.18-17.46.59:748][689]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.04.18-17.46.59:761][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012437s)
+[2022.04.18-17.46.59:761][689]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.04.18-17.46.59:761][689]LogPlayLevel: PIE: World Init took: (0.000469s)
+[2022.04.18-17.46.59:761][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.013013s)
+[2022.04.18-17.46.59:789][689]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.04.18-17.46.59:900][689]LogInit: XAudio2 using 'Speakers (THX Spatial - Synapse)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2022.04.18-17.46.59:912][689]LogInit: FAudioDevice initialized.
+[2022.04.18-17.46.59:942][689]LogLoad: Game class is 'GameMode1_C'
+[2022.04.18-17.46.59:945][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:945][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:945][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:945][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:946][689]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.04.18-19.46.59
+[2022.04.18-17.46.59:946][689]LogWorld: Bringing up level for play took: 0.003293
+[2022.04.18-17.46.59:959][689]PIE: Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default 0,066
+[2022.04.18-17.46.59:959][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel' has LevelScriptBlueprint '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default' with GeneratedClass '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default_C' with ClassGeneratedBy '/Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Minimal_Default'
+[2022.04.18-17.46.59:975][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:975][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'FL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:975][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RR_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.46.59:975][689]LogAnimation: Warning: FBoneReference::Initialize BoneIndex for Bone 'RL_bone' does not exist in Skeleton 'FabiaSkel'
+[2022.04.18-17.47.00:735][776]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.04.18-17.47.01:561][776]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.826 s
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: === Handled ensure: ===
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: 
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: Ensure condition failed: !Primitive->Bounds.BoxExtent.ContainsNaN() && !Primitive->Bounds.Origin.ContainsNaN() && !FMath::IsNaN(Primitive->Bounds.SphereRadius) && FMath::IsFinite(Primitive->Bounds.SphereRadius) [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Renderer\Private\RendererScene.cpp] [Line: 1329]
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: Nans found on Bounds for Primitive VehicleMesh: Origin X=-nan(ind) Y=-nan(ind) Z=-nan(ind), BoxExtent X=nan Y=nan Z=nan, SphereRadius nan
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: Stack: 
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff817c8a79f UE4Editor-Renderer.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff817a58055 UE4Editor-Renderer.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83ca0f500 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83c983fc9 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83ce04615 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83ce2e651 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83ce3e323 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:561][776]LogOutputDevice: Error: [Callstack] 0x00007ff83ca793e7 UE4Editor-Engine.dll!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff83b19032f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff83b9ad396 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff6364a6bb1 UE4Editor.exe!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff6364b554c UE4Editor.exe!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff6364b55ca UE4Editor.exe!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff6364c316c UE4Editor.exe!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff6364c5b8e UE4Editor.exe!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff8a5497034 KERNEL32.DLL!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: [Callstack] 0x00007ff8a6402651 ntdll.dll!UnknownFunction []
+[2022.04.18-17.47.01:562][776]LogOutputDevice: Error: 
+[2022.04.18-17.47.01:610][776]LogStats:                SubmitErrorReport -  0.000 s
